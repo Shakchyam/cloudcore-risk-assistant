@@ -1,0 +1,241 @@
+review_id,customer_id,product,region,rating,review_text
+R00001,C0144,DataVault,San Francisco,3,"Does the job, though onboarding took longer than promised."
+R00002,C0200,Analytics Pro,Singapore,5,Great modelling features and the team keeps shipping improvements.
+R00003,C0202,DataVault,Sydney,5,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00004,C0146,DataVault,San Francisco,3,"Does the job, though onboarding took longer than promised. We're actively evaluating alternatives."
+R00005,C0146,DataVault,San Francisco,3,"Solid storage, but the interface feels dated. Switching cost is the only thing holding us back."
+R00006,C0060,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00007,C0239,DataVault,Sydney,4,"Reliable, fast, and the support team genuinely knows the product."
+R00008,C0244,CloudSync,Sydney,3,"A promising integration tool, but it needs more polish."
+R00009,C0208,DataVault,Singapore,5,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00010,C0280,Analytics Pro,Singapore,3,A capable product buried under a confusing interface.
+R00011,C0042,CloudSync,Sydney,3,"A promising integration tool, but it needs more polish."
+R00012,C0250,Analytics Pro,Sydney,4,Genuinely powerful dashboards once you get past the learning curve.
+R00013,C0125,DataVault,San Francisco,3,"Solid storage, but the interface feels dated."
+R00014,C0123,Analytics Pro,Sydney,4,Genuinely powerful dashboards once you get past the learning curve.
+R00015,C0192,DataVault,San Francisco,4,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00016,C0110,DataVault,Sydney,5,We moved our archive to DataVault and never looked back.
+R00017,C0221,CloudSync,San Francisco,2,Reliability isn't there yet. We're benchmarking against AWS Step Functions.
+R00018,C0104,CloudSync,Singapore,3,"Works for simple flows, struggles with complex mappings."
+R00019,C0032,DataVault,Sydney,5,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00020,C0138,DataVault,Singapore,3,"Does the job, though onboarding took longer than promised."
+R00021,C0199,Analytics Pro,Singapore,4,Replaced a pile of manual reports — our analysts love it now.
+R00022,C0070,Analytics Pro,Sydney,4,Great modelling features and the team keeps shipping improvements.
+R00023,C0014,CloudSync,Sydney,1,"Honestly, the big clouds do this better. Considering switching."
+R00024,C0067,Analytics Pro,Sydney,3,"Good analytics, but onboarding needs serious work."
+R00025,C0205,Analytics Pro,San Francisco,3,A capable product buried under a confusing interface. Switching cost is the only thing holding us back.
+R00026,C0190,CloudSync,Sydney,3,"A promising integration tool, but it needs more polish."
+R00027,C0259,DataVault,Singapore,5,"Reliable, fast, and the support team genuinely knows the product."
+R00028,C0055,DataVault,Sydney,4,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00029,C0002,Analytics Pro,Sydney,4,Genuinely powerful dashboards once you get past the learning curve.
+R00030,C0203,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00031,C0034,Analytics Pro,Sydney,4,Replaced a pile of manual reports — our analysts love it now.
+R00032,C0249,CloudSync,San Francisco,4,"Integration is reliable now, after a rough start."
+R00033,C0235,Analytics Pro,Singapore,4,Genuinely powerful dashboards once you get past the learning curve.
+R00034,C0204,Analytics Pro,Sydney,4,Replaced a pile of manual reports — our analysts love it now.
+R00035,C0215,CloudSync,Sydney,3,"Works for simple flows, struggles with complex mappings."
+R00036,C0041,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00037,C0270,CloudSync,San Francisco,2,Sync failures and duplicated records — we fix it more than we use it. We could just move this to AWS.
+R00038,C0166,DataVault,Sydney,5,"Reliable, fast, and the support team genuinely knows the product."
+R00039,C0089,DataVault,Sydney,4,We moved our archive to DataVault and never looked back.
+R00040,C0105,CloudSync,Sydney,4,"Integration is reliable now, after a rough start."
+R00041,C0186,Analytics Pro,Singapore,3,"Good analytics, but onboarding needs serious work."
+R00042,C0085,CloudSync,San Francisco,2,Sync failures and duplicated records — we fix it more than we use it.
+R00043,C0091,Analytics Pro,Singapore,4,Genuinely powerful dashboards once you get past the learning curve.
+R00044,C0088,DataVault,Sydney,4,We moved our archive to DataVault and never looked back.
+R00045,C0189,Analytics Pro,Singapore,5,Genuinely powerful dashboards once you get past the learning curve.
+R00046,C0266,CloudSync,San Francisco,3,"A promising integration tool, but it needs more polish."
+R00047,C0048,CloudSync,Singapore,3,"Works for simple flows, struggles with complex mappings."
+R00048,C0195,CloudSync,Sydney,2,"Honestly, the big clouds do this better. Considering switching."
+R00049,C0264,CloudSync,San Francisco,3,"A promising integration tool, but it needs more polish."
+R00050,C0133,DataVault,Singapore,4,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00051,C0021,DataVault,Sydney,3,"Does the job, though onboarding took longer than promised."
+R00052,C0104,CloudSync,Singapore,3,"Works for simple flows, struggles with complex mappings."
+R00053,C0225,CloudSync,Sydney,3,"Works for simple flows, struggles with complex mappings."
+R00054,C0131,CloudSync,Sydney,3,"A promising integration tool, but it needs more polish."
+R00055,C0221,Analytics Pro,San Francisco,4,Genuinely powerful dashboards once you get past the learning curve.
+R00056,C0042,CloudSync,Sydney,4,Support tuned our pipeline and it's been stable since.
+R00057,C0061,CloudSync,Sydney,4,"Integration is reliable now, after a rough start."
+R00058,C0196,DataVault,San Francisco,4,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00059,C0223,DataVault,San Francisco,4,We moved our archive to DataVault and never looked back.
+R00060,C0185,CloudSync,Singapore,2,"Honestly, the big clouds do this better. Considering switching."
+R00061,C0043,DataVault,Singapore,4,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00062,C0219,Analytics Pro,San Francisco,3,"Good analytics, but onboarding needs serious work."
+R00063,C0200,Analytics Pro,Singapore,4,Great modelling features and the team keeps shipping improvements.
+R00064,C0041,DataVault,Singapore,5,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00065,C0276,DataVault,Sydney,4,We moved our archive to DataVault and never looked back.
+R00066,C0068,DataVault,Sydney,4,"Reliable, fast, and the support team genuinely knows the product."
+R00067,C0058,CloudSync,Sydney,4,"Integration is reliable now, after a rough start."
+R00068,C0270,CloudSync,San Francisco,2,Sync failures and duplicated records — we fix it more than we use it. We could just move this to AWS.
+R00069,C0020,CloudSync,Sydney,4,"Integration is reliable now, after a rough start."
+R00070,C0105,CloudSync,Sydney,2,Sync failures and duplicated records — we fix it more than we use it.
+R00071,C0144,DataVault,San Francisco,3,"Solid storage, but the interface feels dated."
+R00072,C0235,DataVault,Singapore,4,"Reliable, fast, and the support team genuinely knows the product."
+R00073,C0280,DataVault,Singapore,5,"Reliable, fast, and the support team genuinely knows the product."
+R00074,C0193,DataVault,Sydney,3,"Solid storage, but the interface feels dated."
+R00075,C0062,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00076,C0188,Analytics Pro,Sydney,2,"Powerful, but the learning curve is brutal and the docs are thin."
+R00077,C0027,CloudSync,Singapore,3,"Works for simple flows, struggles with complex mappings."
+R00078,C0228,Analytics Pro,San Francisco,3,A capable product buried under a confusing interface. Switching cost is the only thing holding us back.
+R00079,C0155,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00080,C0016,DataVault,Singapore,5,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00081,C0104,CloudSync,Singapore,4,"When it works, CloudSync keeps everything in step across our stack."
+R00082,C0150,DataVault,Singapore,3,"Solid storage, but the interface feels dated."
+R00083,C0220,DataVault,Sydney,2,Pricing climbed and nobody told us. Considering alternatives.
+R00084,C0269,CloudSync,Sydney,4,"When it works, CloudSync keeps everything in step across our stack."
+R00085,C0079,Analytics Pro,Singapore,4,Replaced a pile of manual reports — our analysts love it now.
+R00086,C0159,DataVault,Sydney,4,We moved our archive to DataVault and never looked back.
+R00087,C0238,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00088,C0247,Analytics Pro,Sydney,4,Genuinely powerful dashboards once you get past the learning curve.
+R00089,C0084,Analytics Pro,Sydney,4,Great modelling features and the team keeps shipping improvements.
+R00090,C0005,CloudSync,Sydney,3,"A promising integration tool, but it needs more polish."
+R00091,C0064,DataVault,Sydney,5,We moved our archive to DataVault and never looked back.
+R00092,C0206,DataVault,Sydney,4,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00093,C0114,Analytics Pro,Sydney,3,A capable product buried under a confusing interface.
+R00094,C0118,DataVault,San Francisco,3,"Solid storage, but the interface feels dated. We could just move this to AWS."
+R00095,C0059,DataVault,San Francisco,5,"Reliable, fast, and the support team genuinely knows the product."
+R00096,C0238,CloudSync,Singapore,3,"Works for simple flows, struggles with complex mappings."
+R00097,C0083,CloudSync,Sydney,4,Support tuned our pipeline and it's been stable since.
+R00098,C0068,CloudSync,Sydney,3,"A promising integration tool, but it needs more polish."
+R00099,C0220,CloudSync,Sydney,3,"Works for simple flows, struggles with complex mappings."
+R00100,C0188,Analytics Pro,Sydney,4,Replaced a pile of manual reports — our analysts love it now.
+R00101,C0037,CloudSync,Singapore,3,"Works for simple flows, struggles with complex mappings."
+R00102,C0072,Analytics Pro,San Francisco,3,"Good analytics, but onboarding needs serious work."
+R00103,C0086,Analytics Pro,San Francisco,2,We expected more polish for the price.
+R00104,C0157,Analytics Pro,Sydney,4,Great modelling features and the team keeps shipping improvements.
+R00105,C0201,CloudSync,Singapore,4,Support tuned our pipeline and it's been stable since.
+R00106,C0243,DataVault,Sydney,5,"Reliable, fast, and the support team genuinely knows the product."
+R00107,C0103,DataVault,San Francisco,4,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00108,C0256,DataVault,Singapore,4,We moved our archive to DataVault and never looked back.
+R00109,C0145,CloudSync,San Francisco,2,"Reliability isn't there yet. We're benchmarking against AWS Step Functions. Compared to Azure, the gap is obvious."
+R00110,C0176,Analytics Pro,Sydney,3,"Good analytics, but onboarding needs serious work."
+R00111,C0069,Analytics Pro,Sydney,4,Replaced a pile of manual reports — our analysts love it now.
+R00112,C0243,DataVault,Sydney,4,We moved our archive to DataVault and never looked back.
+R00113,C0003,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00114,C0194,CloudSync,San Francisco,3,"Works for simple flows, struggles with complex mappings. Compared to Azure, the gap is obvious."
+R00115,C0216,CloudSync,San Francisco,2,Integration breaks with every update. Frustrating. We're actively evaluating alternatives.
+R00116,C0106,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00117,C0155,CloudSync,Singapore,3,"Works for simple flows, struggles with complex mappings."
+R00118,C0121,DataVault,San Francisco,3,"Does the job, though onboarding took longer than promised."
+R00119,C0010,DataVault,Singapore,4,"Reliable, fast, and the support team genuinely knows the product."
+R00120,C0276,CloudSync,Sydney,3,"Works for simple flows, struggles with complex mappings."
+R00121,C0273,DataVault,Sydney,4,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00122,C0130,Analytics Pro,Sydney,5,Genuinely powerful dashboards once you get past the learning curve.
+R00123,C0188,Analytics Pro,Sydney,4,Great modelling features and the team keeps shipping improvements.
+R00124,C0145,DataVault,San Francisco,3,"Solid storage, but the interface feels dated."
+R00125,C0255,DataVault,Sydney,4,"Reliable, fast, and the support team genuinely knows the product."
+R00126,C0225,CloudSync,Sydney,4,Support tuned our pipeline and it's been stable since.
+R00127,C0066,CloudSync,San Francisco,3,"A promising integration tool, but it needs more polish."
+R00128,C0199,Analytics Pro,Singapore,4,Genuinely powerful dashboards once you get past the learning curve.
+R00129,C0112,CloudSync,Sydney,2,Integration breaks with every update. Frustrating.
+R00130,C0185,DataVault,Singapore,4,We moved our archive to DataVault and never looked back.
+R00131,C0156,DataVault,Singapore,4,"Reliable, fast, and the support team genuinely knows the product."
+R00132,C0204,DataVault,Sydney,4,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00133,C0224,DataVault,Singapore,5,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00134,C0267,DataVault,San Francisco,4,We moved our archive to DataVault and never looked back.
+R00135,C0257,CloudSync,Sydney,4,Support tuned our pipeline and it's been stable since.
+R00136,C0212,Analytics Pro,San Francisco,3,A capable product buried under a confusing interface. Switching cost is the only thing holding us back.
+R00137,C0280,CloudSync,Singapore,3,"Works for simple flows, struggles with complex mappings."
+R00138,C0043,DataVault,Singapore,5,"Reliable, fast, and the support team genuinely knows the product."
+R00139,C0110,DataVault,Sydney,4,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00140,C0204,DataVault,Sydney,4,"Reliable, fast, and the support team genuinely knows the product."
+R00141,C0191,Analytics Pro,San Francisco,3,A capable product buried under a confusing interface. We could just move this to AWS.
+R00142,C0189,Analytics Pro,Singapore,3,"Good analytics, but onboarding needs serious work."
+R00143,C0231,CloudSync,San Francisco,2,Sync failures and duplicated records — we fix it more than we use it. We're actively evaluating alternatives.
+R00144,C0143,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00145,C0220,CloudSync,Sydney,4,Support tuned our pipeline and it's been stable since.
+R00146,C0129,CloudSync,Sydney,3,"A promising integration tool, but it needs more polish."
+R00147,C0202,CloudSync,Sydney,3,"Works for simple flows, struggles with complex mappings."
+R00148,C0026,Analytics Pro,Sydney,4,Replaced a pile of manual reports — our analysts love it now.
+R00149,C0243,DataVault,Sydney,5,"Reliable, fast, and the support team genuinely knows the product."
+R00150,C0185,DataVault,Singapore,4,"Reliable, fast, and the support team genuinely knows the product."
+R00151,C0074,Analytics Pro,Singapore,4,Replaced a pile of manual reports — our analysts love it now.
+R00152,C0185,Analytics Pro,Singapore,4,Replaced a pile of manual reports — our analysts love it now.
+R00153,C0003,CloudSync,Singapore,3,"Works for simple flows, struggles with complex mappings."
+R00154,C0150,DataVault,Singapore,4,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00155,C0142,CloudSync,San Francisco,3,"A promising integration tool, but it needs more polish."
+R00156,C0079,Analytics Pro,Singapore,3,A capable product buried under a confusing interface.
+R00157,C0201,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00158,C0115,CloudSync,Sydney,4,"Integration is reliable now, after a rough start."
+R00159,C0052,DataVault,Singapore,5,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00160,C0136,Analytics Pro,Sydney,3,A capable product buried under a confusing interface.
+R00161,C0063,Analytics Pro,Singapore,4,Replaced a pile of manual reports — our analysts love it now.
+R00162,C0098,CloudSync,Singapore,2,Integration breaks with every update. Frustrating.
+R00163,C0055,CloudSync,Sydney,2,Integration breaks with every update. Frustrating.
+R00164,C0086,Analytics Pro,San Francisco,3,A capable product buried under a confusing interface.
+R00165,C0177,Analytics Pro,Singapore,4,Great modelling features and the team keeps shipping improvements.
+R00166,C0125,DataVault,San Francisco,4,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00167,C0187,CloudSync,San Francisco,3,"A promising integration tool, but it needs more polish."
+R00168,C0054,Analytics Pro,San Francisco,4,Replaced a pile of manual reports — our analysts love it now.
+R00169,C0097,Analytics Pro,Sydney,5,Replaced a pile of manual reports — our analysts love it now.
+R00170,C0170,Analytics Pro,Sydney,5,Genuinely powerful dashboards once you get past the learning curve.
+R00171,C0080,CloudSync,Singapore,4,"When it works, CloudSync keeps everything in step across our stack."
+R00172,C0159,Analytics Pro,Sydney,4,Replaced a pile of manual reports — our analysts love it now.
+R00173,C0118,Analytics Pro,San Francisco,4,Genuinely powerful dashboards once you get past the learning curve.
+R00174,C0126,DataVault,Singapore,4,We moved our archive to DataVault and never looked back.
+R00175,C0098,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00176,C0025,DataVault,San Francisco,3,"Does the job, though onboarding took longer than promised. Switching cost is the only thing holding us back."
+R00177,C0005,CloudSync,Sydney,3,"A promising integration tool, but it needs more polish."
+R00178,C0230,Analytics Pro,Sydney,3,A capable product buried under a confusing interface.
+R00179,C0049,DataVault,San Francisco,3,"Does the job, though onboarding took longer than promised."
+R00180,C0128,Analytics Pro,San Francisco,2,"Powerful, but the learning curve is brutal and the docs are thin. We could just move this to AWS."
+R00181,C0131,DataVault,Sydney,4,"Reliable, fast, and the support team genuinely knows the product."
+R00182,C0044,CloudSync,Singapore,2,Integration breaks with every update. Frustrating.
+R00183,C0274,DataVault,Sydney,5,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00184,C0222,DataVault,Singapore,4,We moved our archive to DataVault and never looked back.
+R00185,C0127,Analytics Pro,Singapore,4,Replaced a pile of manual reports — our analysts love it now.
+R00186,C0076,CloudSync,Sydney,3,"Works for simple flows, struggles with complex mappings."
+R00187,C0041,DataVault,Singapore,5,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00188,C0243,DataVault,Sydney,3,"Does the job, though onboarding took longer than promised."
+R00189,C0155,CloudSync,Singapore,3,"Works for simple flows, struggles with complex mappings."
+R00190,C0001,CloudSync,Sydney,4,"When it works, CloudSync keeps everything in step across our stack."
+R00191,C0107,Analytics Pro,Sydney,4,Genuinely powerful dashboards once you get past the learning curve.
+R00192,C0158,CloudSync,Singapore,4,"Integration is reliable now, after a rough start."
+R00193,C0172,DataVault,Singapore,4,We moved our archive to DataVault and never looked back.
+R00194,C0220,DataVault,Sydney,4,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00195,C0074,Analytics Pro,Singapore,4,Great modelling features and the team keeps shipping improvements.
+R00196,C0004,DataVault,Singapore,5,"Reliable, fast, and the support team genuinely knows the product."
+R00197,C0080,CloudSync,Singapore,3,"A promising integration tool, but it needs more polish."
+R00198,C0059,CloudSync,San Francisco,3,"A promising integration tool, but it needs more polish."
+R00199,C0219,Analytics Pro,San Francisco,4,Replaced a pile of manual reports — our analysts love it now.
+R00200,C0028,CloudSync,Sydney,3,"Works for simple flows, struggles with complex mappings."
+R00201,C0210,Analytics Pro,Singapore,2,Dashboards are slow to load and scheduling is unreliable.
+R00202,C0249,CloudSync,San Francisco,2,"Honestly, the big clouds do this better. Considering switching. We're actively evaluating alternatives."
+R00203,C0095,Analytics Pro,Sydney,5,Genuinely powerful dashboards once you get past the learning curve.
+R00204,C0028,DataVault,Sydney,5,"Reliable, fast, and the support team genuinely knows the product."
+R00205,C0013,CloudSync,Sydney,4,Support tuned our pipeline and it's been stable since.
+R00206,C0185,CloudSync,Singapore,4,Support tuned our pipeline and it's been stable since.
+R00207,C0016,DataVault,Singapore,4,We moved our archive to DataVault and never looked back.
+R00208,C0144,DataVault,San Francisco,3,"Solid storage, but the interface feels dated."
+R00209,C0109,DataVault,San Francisco,3,"Does the job, though onboarding took longer than promised. Compared to Azure, the gap is obvious."
+R00210,C0048,CloudSync,Singapore,3,"Works for simple flows, struggles with complex mappings."
+R00211,C0233,CloudSync,Sydney,2,"Honestly, the big clouds do this better. Considering switching."
+R00212,C0235,DataVault,Singapore,4,We moved our archive to DataVault and never looked back.
+R00213,C0207,Analytics Pro,Sydney,4,Replaced a pile of manual reports — our analysts love it now.
+R00214,C0261,CloudSync,San Francisco,3,"A promising integration tool, but it needs more polish."
+R00215,C0063,DataVault,Singapore,4,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00216,C0242,Analytics Pro,Singapore,3,A capable product buried under a confusing interface.
+R00217,C0145,Analytics Pro,San Francisco,3,"Good analytics, but onboarding needs serious work. Switching cost is the only thing holding us back."
+R00218,C0136,Analytics Pro,Sydney,4,Replaced a pile of manual reports — our analysts love it now.
+R00219,C0223,Analytics Pro,San Francisco,3,A capable product buried under a confusing interface. Switching cost is the only thing holding us back.
+R00220,C0122,DataVault,San Francisco,4,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00221,C0249,DataVault,San Francisco,4,"Backups just work, and the Sydney residency gives our board peace of mind."
+R00222,C0237,DataVault,San Francisco,4,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00223,C0269,Analytics Pro,Sydney,4,Great modelling features and the team keeps shipping improvements.
+R00224,C0036,DataVault,Singapore,5,Rock-solid storage with genuine data sovereignty — exactly what our regulators want.
+R00225,C0214,CloudSync,Sydney,3,"A promising integration tool, but it needs more polish."
+R00226,C0157,Analytics Pro,Sydney,5,Great modelling features and the team keeps shipping improvements.
+R00227,C0161,DataVault,San Francisco,4,We moved our archive to DataVault and never looked back.
+R00228,C0090,CloudSync,Singapore,2,Sync failures and duplicated records — we fix it more than we use it.
+R00229,C0085,CloudSync,San Francisco,2,Reliability isn't there yet. We're benchmarking against AWS Step Functions. We could just move this to AWS.
+R00230,C0150,DataVault,Singapore,4,We moved our archive to DataVault and never looked back.
+R00231,C0266,DataVault,San Francisco,4,We moved our archive to DataVault and never looked back.
+R00232,C0173,CloudSync,Sydney,3,"A promising integration tool, but it needs more polish."
+R00233,C0152,Analytics Pro,Sydney,3,"Good analytics, but onboarding needs serious work."
+R00234,C0242,Analytics Pro,Singapore,4,Great modelling features and the team keeps shipping improvements.
+R00235,C0251,CloudSync,Sydney,4,"When it works, CloudSync keeps everything in step across our stack."
+R00236,C0211,CloudSync,San Francisco,1,Reliability isn't there yet. We're benchmarking against AWS Step Functions. We could just move this to AWS.
+R00237,C0148,Analytics Pro,Sydney,4,Great modelling features and the team keeps shipping improvements.
+R00238,C0160,Analytics Pro,Sydney,5,Genuinely powerful dashboards once you get past the learning curve.
+R00239,C0112,Analytics Pro,Sydney,3,"Good analytics, but onboarding needs serious work."
+R00240,C0048,Analytics Pro,Singapore,4,Replaced a pile of manual reports — our analysts love it now.

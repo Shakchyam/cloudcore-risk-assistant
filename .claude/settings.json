@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__cloudcore-risk__get_customer",
+      "mcp__cloudcore-risk__get_support_history",
+      "mcp__cloudcore-risk__get_reviews",
+      "mcp__cloudcore-risk__get_risk_signals",
+      "mcp__cloudcore-risk__find_accounts",
+      "mcp__cloudcore-risk__get_review_log"
+    ],
+    "ask": ["mcp__cloudcore-risk__log_review"],
+    "deny": [
+      "Read(./source_data/**)",
+      "Read(./eval/labels.csv)",
+      "Edit",
+      "Write",
+      "WebFetch",
+      "WebSearch"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Read|Bash|Grep|Glob",
+        "hooks": [{ "type": "command", "command": "python3 .claude/hooks/block_labels.py" }]
+      }
+    ]
+  },
+  "enableAllProjectMcpServers": true
+}

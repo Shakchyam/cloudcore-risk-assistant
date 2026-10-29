@@ -1,0 +1,361 @@
+ticket_id,customer_id,product,region,date,channel,satisfaction_score,ticket_text
+TK00001,C0200,Analytics Pro,Singapore,2025-11-14,Chat,3,How do we share a dashboard with an external auditor?
+TK00002,C0120,CloudSync,Sydney,2025-09-22,Phone,3,"Clarification on rate limits for the integration API, please."
+TK00003,C0002,Analytics Pro,Sydney,2026-05-21,Email,3,How do we share a dashboard with an external auditor?
+TK00004,C0062,Analytics Pro,Singapore,2026-05-03,Chat,4,"The new report scheduler is a big improvement, thanks."
+TK00005,C0081,CloudSync,San Francisco,2025-08-28,Portal,3,"Clarification on rate limits for the integration API, please."
+TK00006,C0180,Analytics Pro,Sydney,2025-11-11,Chat,5,"Once configured, the dashboards are genuinely powerful."
+TK00007,C0200,Analytics Pro,Singapore,2026-05-10,Chat,4,"Once configured, the dashboards are genuinely powerful."
+TK00008,C0006,CloudSync,Singapore,2026-02-13,Email,2,"Integration with our ERP keeps dropping, we are evaluating alternatives."
+TK00009,C0099,CloudSync,Sydney,2025-08-27,Chat,3,Need documentation on retry logic for failed records.
+TK00010,C0232,Account,Sydney,2026-04-07,Chat,3,How do we add a new seat to our plan?
+TK00011,C0212,CloudSync,San Francisco,2026-02-21,Phone,3,"Clarification on rate limits for the integration API, please."
+TK00012,C0159,Analytics Pro,Sydney,2025-06-03,Phone,3,Requesting access to the advanced modelling module.
+TK00013,C0276,Account,Sydney,2025-07-24,Chat,4,"Smooth onboarding, everything is set up correctly."
+TK00014,C0205,Analytics Pro,San Francisco,2025-06-16,Email,3,Looking for guidance on custom calculated fields.
+TK00015,C0105,CloudSync,Sydney,2026-05-08,Phone,3,"Clarification on rate limits for the integration API, please."
+TK00016,C0056,Analytics Pro,Singapore,2026-05-24,Phone,4,"Once configured, the dashboards are genuinely powerful."
+TK00017,C0246,DataVault,Singapore,2026-04-18,Email,5,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00018,C0279,DataVault,Singapore,2025-10-27,Phone,4,"The new restore workflow is much faster, really appreciate it."
+TK00019,C0237,DataVault,San Francisco,2026-05-26,Chat,4,"The new restore workflow is much faster, really appreciate it."
+TK00020,C0278,Account,Sydney,2026-01-09,Chat,5,"Smooth onboarding, everything is set up correctly."
+TK00021,C0245,Account,San Francisco,2026-03-24,Chat,2,Onboarding has been slow and we still don't have full access.
+TK00022,C0020,CloudSync,Sydney,2026-05-22,Chat,2,Field mapping broke after your update with no warning at all.
+TK00023,C0240,DataVault,Sydney,2025-12-27,Phone,4,"Backup completed ahead of schedule, thanks to the support team."
+TK00024,C0229,CloudSync,Sydney,2026-04-03,Email,4,Support helped us tune the batch size and syncs are stable now.
+TK00025,C0103,DataVault,San Francisco,2026-04-08,Chat,3,Please confirm the timing of this weekend's scheduled maintenance.
+TK00026,C0123,Analytics Pro,Sydney,2025-11-01,Email,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00027,C0114,Analytics Pro,Sydney,2026-03-08,Portal,4,"The new report scheduler is a big improvement, thanks."
+TK00028,C0119,CloudSync,Sydney,2026-01-27,Portal,3,Need documentation on retry logic for failed records.
+TK00029,C0098,CloudSync,Singapore,2026-04-16,Phone,3,How do we add a new source to the CloudSync pipeline?
+TK00030,C0223,Account,San Francisco,2026-04-30,Email,2,"Billed twice this month, please refund the duplicate charge."
+TK00031,C0135,CloudSync,San Francisco,2026-02-10,Chat,3,How do we add a new source to the CloudSync pipeline?
+TK00032,C0195,CloudSync,Sydney,2025-08-07,Phone,3,How do we add a new source to the CloudSync pipeline?
+TK00033,C0053,Analytics Pro,Singapore,2025-11-10,Phone,3,How do we share a dashboard with an external auditor?
+TK00034,C0150,DataVault,Singapore,2025-07-27,Portal,3,Requesting an increase to our storage quota for the new project.
+TK00035,C0229,CloudSync,Sydney,2025-11-22,Chat,3,Need documentation on retry logic for failed records.
+TK00036,C0227,DataVault,Singapore,2025-08-04,Portal,3,Please confirm the timing of this weekend's scheduled maintenance.
+TK00037,C0187,CloudSync,San Francisco,2026-05-05,Phone,1,Honestly considering AWS for this — reliability has to improve. Switching cost is the only thing holding us back.
+TK00038,C0280,Analytics Pro,Singapore,2025-09-18,Portal,4,"Once configured, the dashboards are genuinely powerful."
+TK00039,C0265,DataVault,Singapore,2025-11-29,Chat,5,"Backup completed ahead of schedule, thanks to the support team."
+TK00040,C0162,CloudSync,Sydney,2025-07-07,Email,3,"Clarification on rate limits for the integration API, please."
+TK00041,C0261,CloudSync,San Francisco,2026-05-19,Phone,1,"Integration with our ERP keeps dropping, we are evaluating alternatives. Switching cost is the only thing holding us back."
+TK00042,C0178,CloudSync,Sydney,2026-04-04,Email,2,"CloudSync failed overnight and duplicated half our records, this is a mess."
+TK00043,C0217,Analytics Pro,Sydney,2026-03-23,Phone,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00044,C0247,CloudSync,Sydney,2026-05-24,Email,3,How do we add a new source to the CloudSync pipeline?
+TK00045,C0216,CloudSync,San Francisco,2026-04-12,Phone,3,Requesting a sandbox to test a new field mapping.
+TK00046,C0241,Analytics Pro,Singapore,2025-12-18,Chat,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00047,C0043,DataVault,Singapore,2025-10-05,Chat,4,"Backup completed ahead of schedule, thanks to the support team."
+TK00048,C0060,CloudSync,Singapore,2025-12-02,Phone,3,Need documentation on retry logic for failed records.
+TK00049,C0102,Analytics Pro,San Francisco,2025-09-27,Portal,3,Need to schedule a training session for our new analysts.
+TK00050,C0128,Account,San Francisco,2025-08-01,Chat,3,Requesting an updated invoice for finance.
+TK00051,C0050,Analytics Pro,Sydney,2026-01-09,Phone,3,Requesting access to the advanced modelling module.
+TK00052,C0090,Analytics Pro,Singapore,2025-07-04,Portal,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00053,C0173,Account,Sydney,2026-01-16,Phone,3,Need to update our billing contact details.
+TK00054,C0185,Analytics Pro,Singapore,2025-07-24,Phone,4,Support walked us through the modelling module — really helpful.
+TK00055,C0118,Analytics Pro,San Francisco,2025-07-29,Chat,3,Requesting access to the advanced modelling module.
+TK00056,C0008,Account,Sydney,2026-01-13,Phone,3,How do we add a new seat to our plan?
+TK00057,C0177,Account,Singapore,2026-01-05,Email,3,Need to update our billing contact details.
+TK00058,C0028,DataVault,Sydney,2025-09-22,Portal,3,Please confirm the timing of this weekend's scheduled maintenance.
+TK00059,C0215,Analytics Pro,Sydney,2025-07-26,Chat,4,"Once configured, the dashboards are genuinely powerful."
+TK00060,C0104,Account,Singapore,2026-05-07,Chat,3,How do we add a new seat to our plan?
+TK00061,C0269,CloudSync,Sydney,2025-07-16,Email,3,Need documentation on retry logic for failed records.
+TK00062,C0067,Account,Sydney,2025-08-06,Chat,5,"Smooth onboarding, everything is set up correctly."
+TK00063,C0086,Account,San Francisco,2025-07-09,Email,2,"Billed twice this month, please refund the duplicate charge."
+TK00064,C0066,CloudSync,San Francisco,2025-09-29,Phone,3,Need documentation on retry logic for failed records.
+TK00065,C0033,DataVault,Sydney,2026-03-08,Email,5,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00066,C0214,CloudSync,Sydney,2025-12-11,Chat,3,Requesting a sandbox to test a new field mapping.
+TK00067,C0128,CloudSync,San Francisco,2026-03-20,Email,3,Requesting a sandbox to test a new field mapping.
+TK00068,C0212,Analytics Pro,San Francisco,2026-01-29,Portal,3,Requesting access to the advanced modelling module.
+TK00069,C0189,Account,Singapore,2026-03-29,Phone,3,Need to update our billing contact details.
+TK00070,C0253,Account,Sydney,2026-04-29,Email,3,How do we add a new seat to our plan?
+TK00071,C0217,DataVault,Sydney,2025-11-11,Email,4,"Quick resolution on the quota ticket, excellent service."
+TK00072,C0153,CloudSync,San Francisco,2026-03-14,Phone,4,The new mapping UI is a real improvement.
+TK00073,C0171,Account,San Francisco,2026-05-29,Portal,3,Need to update our billing contact details.
+TK00074,C0122,Analytics Pro,San Francisco,2026-01-11,Phone,2,"Dashboards take over a minute to load, unusable for our standups."
+TK00075,C0057,Analytics Pro,San Francisco,2025-10-27,Phone,3,Requesting access to the advanced modelling module.
+TK00076,C0019,CloudSync,Singapore,2025-12-04,Portal,3,How do we add a new source to the CloudSync pipeline?
+TK00077,C0236,Account,Sydney,2025-08-12,Portal,4,"Account manager sorted our billing query same day, thank you."
+TK00078,C0231,CloudSync,San Francisco,2026-03-25,Phone,2,API errors every time we push a large batch — unacceptable.
+TK00079,C0079,Analytics Pro,Singapore,2026-01-08,Chat,3,Requesting access to the advanced modelling module.
+TK00080,C0130,Account,Sydney,2026-03-31,Portal,4,"Smooth onboarding, everything is set up correctly."
+TK00081,C0102,Analytics Pro,San Francisco,2026-03-11,Portal,3,Need to schedule a training session for our new analysts.
+TK00082,C0096,DataVault,Singapore,2025-08-15,Email,4,"Backup completed ahead of schedule, thanks to the support team."
+TK00083,C0064,Analytics Pro,Sydney,2025-07-21,Portal,3,Requesting access to the advanced modelling module.
+TK00084,C0120,CloudSync,Sydney,2026-04-13,Portal,3,Requesting a sandbox to test a new field mapping.
+TK00085,C0211,DataVault,San Francisco,2025-12-03,Email,3,Requesting an increase to our storage quota for the new project.
+TK00086,C0128,Analytics Pro,San Francisco,2026-03-18,Chat,4,Support walked us through the modelling module — really helpful.
+TK00087,C0243,DataVault,Sydney,2026-01-19,Phone,4,"The new restore workflow is much faster, really appreciate it."
+TK00088,C0130,Analytics Pro,Sydney,2026-04-20,Email,5,Analytics Pro replaced three manual spreadsheets for us.
+TK00089,C0250,CloudSync,Sydney,2026-05-01,Chat,2,"Integration with our ERP keeps dropping, we are evaluating alternatives."
+TK00090,C0182,Analytics Pro,Sydney,2026-01-14,Email,4,"Once configured, the dashboards are genuinely powerful."
+TK00091,C0234,CloudSync,Singapore,2025-08-10,Phone,3,"Clarification on rate limits for the integration API, please."
+TK00092,C0249,Account,San Francisco,2025-07-06,Portal,4,"Account manager sorted our billing query same day, thank you."
+TK00093,C0009,CloudSync,Sydney,2025-10-28,Email,2,"Integration with our ERP keeps dropping, we are evaluating alternatives."
+TK00094,C0177,Account,Singapore,2026-03-10,Portal,4,"Smooth onboarding, everything is set up correctly."
+TK00095,C0268,CloudSync,Sydney,2026-03-19,Chat,4,Support helped us tune the batch size and syncs are stable now.
+TK00096,C0226,CloudSync,San Francisco,2026-03-25,Portal,3,How do we add a new source to the CloudSync pipeline?
+TK00097,C0049,Account,San Francisco,2026-02-01,Email,5,"Smooth onboarding, everything is set up correctly."
+TK00098,C0132,DataVault,Sydney,2025-10-03,Phone,4,"Backup completed ahead of schedule, thanks to the support team."
+TK00099,C0239,Analytics Pro,Sydney,2025-07-21,Email,3,Need to schedule a training session for our new analysts.
+TK00100,C0219,Analytics Pro,San Francisco,2025-08-24,Phone,3,Looking for guidance on custom calculated fields.
+TK00101,C0041,CloudSync,Singapore,2025-12-31,Phone,5,The new mapping UI is a real improvement.
+TK00102,C0058,Account,Sydney,2025-08-26,Phone,4,"Account manager sorted our billing query same day, thank you."
+TK00103,C0049,DataVault,San Francisco,2025-06-14,Phone,4,"The new restore workflow is much faster, really appreciate it."
+TK00104,C0060,CloudSync,Singapore,2026-01-29,Portal,3,"Clarification on rate limits for the integration API, please."
+TK00105,C0138,DataVault,Singapore,2025-10-27,Email,3,Please confirm the timing of this weekend's scheduled maintenance.
+TK00106,C0271,Analytics Pro,Sydney,2026-03-06,Chat,3,Need to schedule a training session for our new analysts.
+TK00107,C0191,Analytics Pro,San Francisco,2025-06-03,Portal,3,How do we share a dashboard with an external auditor?
+TK00108,C0153,CloudSync,San Francisco,2026-01-13,Email,3,Requesting a sandbox to test a new field mapping.
+TK00109,C0227,Analytics Pro,Singapore,2026-05-02,Email,5,"The new report scheduler is a big improvement, thanks."
+TK00110,C0160,Analytics Pro,Sydney,2026-03-23,Chat,3,Need to schedule a training session for our new analysts.
+TK00111,C0052,DataVault,Singapore,2025-06-05,Email,3,Requesting an increase to our storage quota for the new project.
+TK00112,C0142,Account,San Francisco,2025-10-03,Portal,3,Need to update our billing contact details.
+TK00113,C0041,Account,Singapore,2025-11-24,Email,5,"Smooth onboarding, everything is set up correctly."
+TK00114,C0136,Analytics Pro,Sydney,2026-03-11,Portal,4,"Once configured, the dashboards are genuinely powerful."
+TK00115,C0114,Analytics Pro,Sydney,2025-12-05,Email,4,"The new report scheduler is a big improvement, thanks."
+TK00116,C0253,Account,Sydney,2026-04-21,Chat,4,"Account manager sorted our billing query same day, thank you."
+TK00117,C0085,CloudSync,San Francisco,2026-01-28,Email,1,"Integration with our ERP keeps dropping, we are evaluating alternatives."
+TK00118,C0224,Account,Singapore,2026-04-18,Portal,4,"Smooth onboarding, everything is set up correctly."
+TK00119,C0220,Account,Sydney,2025-10-16,Email,4,"Account manager sorted our billing query same day, thank you."
+TK00120,C0209,Analytics Pro,Sydney,2026-04-28,Portal,4,Support walked us through the modelling module — really helpful.
+TK00121,C0027,CloudSync,Singapore,2025-12-06,Phone,3,How do we add a new source to the CloudSync pipeline?
+TK00122,C0257,CloudSync,Sydney,2026-05-20,Phone,3,Requesting a sandbox to test a new field mapping.
+TK00123,C0212,DataVault,San Francisco,2025-06-18,Portal,5,"Backup completed ahead of schedule, thanks to the support team."
+TK00124,C0244,CloudSync,Sydney,2026-01-02,Email,4,Integration has been smooth since the last patch.
+TK00125,C0188,DataVault,Sydney,2026-03-06,Email,4,"Quick resolution on the quota ticket, excellent service."
+TK00126,C0251,CloudSync,Sydney,2026-02-12,Portal,2,"CloudSync failed overnight and duplicated half our records, this is a mess."
+TK00127,C0246,Analytics Pro,Singapore,2025-09-20,Chat,4,Support walked us through the modelling module — really helpful.
+TK00128,C0220,CloudSync,Sydney,2026-03-07,Email,3,"Clarification on rate limits for the integration API, please."
+TK00129,C0047,DataVault,Singapore,2025-11-20,Phone,4,"Backup completed ahead of schedule, thanks to the support team."
+TK00130,C0114,Analytics Pro,Sydney,2026-05-10,Chat,5,"The new report scheduler is a big improvement, thanks."
+TK00131,C0006,Analytics Pro,Singapore,2026-02-17,Phone,4,Support walked us through the modelling module — really helpful.
+TK00132,C0208,Analytics Pro,Singapore,2026-02-17,Portal,3,Requesting access to the advanced modelling module.
+TK00133,C0215,DataVault,Sydney,2025-09-20,Email,5,"The new restore workflow is much faster, really appreciate it."
+TK00134,C0060,Account,Singapore,2026-04-04,Chat,3,Need to update our billing contact details.
+TK00135,C0048,DataVault,Singapore,2026-02-16,Email,3,Requesting an increase to our storage quota for the new project.
+TK00136,C0111,CloudSync,Sydney,2025-12-02,Phone,4,Integration has been smooth since the last patch.
+TK00137,C0128,Account,San Francisco,2026-03-12,Phone,4,"Account manager sorted our billing query same day, thank you."
+TK00138,C0113,DataVault,Singapore,2026-02-14,Phone,4,"The new restore workflow is much faster, really appreciate it."
+TK00139,C0116,DataVault,Sydney,2026-05-25,Portal,3,Need clarification on the data sovereignty residency options.
+TK00140,C0204,DataVault,Sydney,2026-04-06,Phone,4,"Backup completed ahead of schedule, thanks to the support team."
+TK00141,C0045,DataVault,Singapore,2025-08-15,Chat,4,"Quick resolution on the quota ticket, excellent service."
+TK00142,C0073,Analytics Pro,Sydney,2025-07-02,Phone,4,"The new report scheduler is a big improvement, thanks."
+TK00143,C0218,DataVault,Singapore,2026-05-12,Phone,3,Please confirm the timing of this weekend's scheduled maintenance.
+TK00144,C0123,DataVault,Sydney,2026-05-20,Chat,4,"Quick resolution on the quota ticket, excellent service."
+TK00145,C0243,DataVault,Sydney,2026-04-28,Email,4,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00146,C0215,DataVault,Sydney,2025-11-18,Email,5,"Quick resolution on the quota ticket, excellent service."
+TK00147,C0149,CloudSync,Sydney,2025-12-28,Email,4,"CloudSync caught up overnight and everything reconciled, thanks."
+TK00148,C0040,Analytics Pro,San Francisco,2025-08-25,Phone,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00149,C0161,DataVault,San Francisco,2025-07-12,Chat,4,"The new restore workflow is much faster, really appreciate it."
+TK00150,C0198,CloudSync,Singapore,2026-02-02,Portal,3,"Clarification on rate limits for the integration API, please."
+TK00151,C0269,Analytics Pro,Sydney,2025-12-22,Portal,4,"The new report scheduler is a big improvement, thanks."
+TK00152,C0010,DataVault,Singapore,2025-10-14,Email,5,"Backup completed ahead of schedule, thanks to the support team."
+TK00153,C0097,Analytics Pro,Sydney,2025-08-11,Email,4,"The new report scheduler is a big improvement, thanks."
+TK00154,C0195,Analytics Pro,Sydney,2026-02-17,Email,3,How do we share a dashboard with an external auditor?
+TK00155,C0074,Analytics Pro,Singapore,2026-04-09,Phone,4,"Once configured, the dashboards are genuinely powerful."
+TK00156,C0023,Analytics Pro,Sydney,2025-11-01,Email,3,How do we share a dashboard with an external auditor?
+TK00157,C0162,CloudSync,Sydney,2025-08-05,Chat,4,Support helped us tune the batch size and syncs are stable now.
+TK00158,C0155,CloudSync,Singapore,2025-06-15,Email,3,"Clarification on rate limits for the integration API, please."
+TK00159,C0073,DataVault,Sydney,2026-03-07,Phone,5,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00160,C0073,DataVault,Sydney,2026-01-29,Phone,5,"Backup completed ahead of schedule, thanks to the support team."
+TK00161,C0045,DataVault,Singapore,2025-07-22,Email,4,"Quick resolution on the quota ticket, excellent service."
+TK00162,C0169,Analytics Pro,Sydney,2026-04-05,Phone,4,Support walked us through the modelling module — really helpful.
+TK00163,C0095,DataVault,Sydney,2026-04-17,Chat,4,"Quick resolution on the quota ticket, excellent service."
+TK00164,C0203,DataVault,Singapore,2025-09-17,Email,4,"Quick resolution on the quota ticket, excellent service."
+TK00165,C0188,Analytics Pro,Sydney,2025-09-07,Portal,3,How do we share a dashboard with an external auditor?
+TK00166,C0159,Account,Sydney,2026-02-04,Email,4,"Smooth onboarding, everything is set up correctly."
+TK00167,C0092,Analytics Pro,Sydney,2025-11-01,Portal,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00168,C0231,CloudSync,San Francisco,2025-10-26,Portal,2,"CloudSync failed overnight and duplicated half our records, this is a mess."
+TK00169,C0126,Account,Singapore,2025-12-29,Portal,4,"Account manager sorted our billing query same day, thank you."
+TK00170,C0249,CloudSync,San Francisco,2026-03-08,Email,3,"Clarification on rate limits for the integration API, please."
+TK00171,C0064,CloudSync,Sydney,2026-03-17,Email,4,Support helped us tune the batch size and syncs are stable now.
+TK00172,C0085,Account,San Francisco,2025-11-23,Portal,3,Requesting an updated invoice for finance.
+TK00173,C0056,Analytics Pro,Singapore,2025-11-06,Chat,4,Support walked us through the modelling module — really helpful.
+TK00174,C0178,CloudSync,Sydney,2025-07-24,Email,2,"CloudSync failed overnight and duplicated half our records, this is a mess."
+TK00175,C0231,CloudSync,San Francisco,2026-02-22,Phone,2,API errors every time we push a large batch — unacceptable.
+TK00176,C0112,Account,Sydney,2025-10-05,Portal,4,"Smooth onboarding, everything is set up correctly."
+TK00177,C0130,Analytics Pro,Sydney,2026-01-18,Portal,4,Support walked us through the modelling module — really helpful.
+TK00178,C0087,CloudSync,Sydney,2025-09-22,Phone,3,Need documentation on retry logic for failed records.
+TK00179,C0164,Analytics Pro,Singapore,2026-04-12,Email,5,"The new report scheduler is a big improvement, thanks."
+TK00180,C0156,CloudSync,Singapore,2026-05-18,Portal,3,Requesting a sandbox to test a new field mapping.
+TK00181,C0256,DataVault,Singapore,2026-01-28,Email,4,"Quick resolution on the quota ticket, excellent service."
+TK00182,C0203,Account,Singapore,2026-05-20,Portal,3,Need to update our billing contact details.
+TK00183,C0028,Account,Sydney,2025-06-30,Phone,4,"Account manager sorted our billing query same day, thank you."
+TK00184,C0189,Analytics Pro,Singapore,2026-03-03,Chat,3,How do we share a dashboard with an external auditor?
+TK00185,C0082,CloudSync,Sydney,2026-01-10,Chat,3,Requesting a sandbox to test a new field mapping.
+TK00186,C0149,Analytics Pro,Sydney,2025-06-27,Portal,4,Support walked us through the modelling module — really helpful.
+TK00187,C0266,DataVault,San Francisco,2026-01-06,Chat,4,"Backup completed ahead of schedule, thanks to the support team."
+TK00188,C0055,CloudSync,Sydney,2025-08-19,Phone,3,Need documentation on retry logic for failed records.
+TK00189,C0063,DataVault,Singapore,2026-03-18,Chat,5,"Quick resolution on the quota ticket, excellent service."
+TK00190,C0053,Analytics Pro,Singapore,2025-09-14,Chat,3,Need to schedule a training session for our new analysts.
+TK00191,C0280,CloudSync,Singapore,2026-02-16,Portal,5,Integration has been smooth since the last patch.
+TK00192,C0089,DataVault,Sydney,2025-11-25,Portal,4,"The new restore workflow is much faster, really appreciate it."
+TK00193,C0227,DataVault,Singapore,2026-02-26,Email,3,Need clarification on the data sovereignty residency options.
+TK00194,C0267,DataVault,San Francisco,2025-07-20,Portal,4,"The new restore workflow is much faster, really appreciate it."
+TK00195,C0104,CloudSync,Singapore,2025-07-20,Email,4,Support helped us tune the batch size and syncs are stable now.
+TK00196,C0209,DataVault,Sydney,2025-12-21,Phone,4,"The new restore workflow is much faster, really appreciate it."
+TK00197,C0021,CloudSync,Sydney,2025-10-15,Phone,4,Support helped us tune the batch size and syncs are stable now.
+TK00198,C0167,Account,Singapore,2026-04-01,Chat,3,Requesting an updated invoice for finance.
+TK00199,C0029,DataVault,Sydney,2026-05-25,Phone,4,"The new restore workflow is much faster, really appreciate it."
+TK00200,C0223,Analytics Pro,San Francisco,2025-07-08,Chat,3,Requesting access to the advanced modelling module.
+TK00201,C0118,Analytics Pro,San Francisco,2026-05-14,Email,3,Requesting access to the advanced modelling module.
+TK00202,C0188,Analytics Pro,Sydney,2026-02-28,Phone,4,"The new report scheduler is a big improvement, thanks."
+TK00203,C0096,DataVault,Singapore,2025-12-31,Portal,4,"Quick resolution on the quota ticket, excellent service."
+TK00204,C0185,DataVault,Singapore,2025-07-01,Phone,5,"Backup completed ahead of schedule, thanks to the support team."
+TK00205,C0276,CloudSync,Sydney,2025-10-09,Email,2,Honestly considering AWS for this — reliability has to improve.
+TK00206,C0279,Analytics Pro,Singapore,2025-06-28,Email,4,Support walked us through the modelling module — really helpful.
+TK00207,C0216,Analytics Pro,San Francisco,2025-09-09,Email,3,Requesting access to the advanced modelling module.
+TK00208,C0161,DataVault,San Francisco,2025-09-30,Email,3,How do we configure lifecycle policies on cold storage?
+TK00209,C0064,DataVault,Sydney,2026-04-05,Email,4,"Backup completed ahead of schedule, thanks to the support team."
+TK00210,C0060,CloudSync,Singapore,2025-09-09,Phone,4,"CloudSync caught up overnight and everything reconciled, thanks."
+TK00211,C0237,Account,San Francisco,2026-05-05,Email,3,Need to update our billing contact details.
+TK00212,C0205,Analytics Pro,San Francisco,2025-07-03,Email,2,The learning curve is brutal — my team can't build a basic report without help.
+TK00213,C0062,CloudSync,Singapore,2026-03-18,Portal,4,Support helped us tune the batch size and syncs are stable now.
+TK00214,C0059,DataVault,San Francisco,2025-09-16,Chat,4,"The new restore workflow is much faster, really appreciate it."
+TK00215,C0166,CloudSync,Sydney,2026-05-12,Email,3,How do we add a new source to the CloudSync pipeline?
+TK00216,C0072,DataVault,San Francisco,2025-08-28,Email,4,"Quick resolution on the quota ticket, excellent service."
+TK00217,C0079,DataVault,Singapore,2026-04-15,Chat,4,"Quick resolution on the quota ticket, excellent service."
+TK00218,C0230,Account,Sydney,2025-07-29,Phone,4,"Smooth onboarding, everything is set up correctly."
+TK00219,C0265,CloudSync,Singapore,2026-02-26,Chat,5,Integration has been smooth since the last patch.
+TK00220,C0231,CloudSync,San Francisco,2026-04-30,Portal,2,Field mapping broke after your update with no warning at all.
+TK00221,C0206,Account,Sydney,2025-10-13,Chat,4,"Smooth onboarding, everything is set up correctly."
+TK00222,C0203,DataVault,Singapore,2026-03-01,Email,3,Requesting an increase to our storage quota for the new project.
+TK00223,C0197,DataVault,San Francisco,2026-01-17,Chat,4,"Backup completed ahead of schedule, thanks to the support team."
+TK00224,C0026,Account,Sydney,2025-10-08,Email,3,How do we add a new seat to our plan?
+TK00225,C0123,Analytics Pro,Sydney,2026-01-13,Email,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00226,C0115,Analytics Pro,Sydney,2025-06-21,Chat,4,Support walked us through the modelling module — really helpful.
+TK00227,C0228,Analytics Pro,San Francisco,2025-07-19,Email,5,Support walked us through the modelling module — really helpful.
+TK00228,C0146,Analytics Pro,San Francisco,2026-02-01,Phone,3,Looking for guidance on custom calculated fields.
+TK00229,C0253,DataVault,Sydney,2026-01-01,Phone,3,How do we configure lifecycle policies on cold storage?
+TK00230,C0120,CloudSync,Sydney,2026-02-17,Email,2,Sync latency is over an hour and downstream systems are breaking.
+TK00231,C0027,DataVault,Singapore,2026-05-14,Chat,4,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00232,C0220,DataVault,Sydney,2026-01-28,Phone,4,"Quick resolution on the quota ticket, excellent service."
+TK00233,C0123,DataVault,Sydney,2025-09-15,Phone,4,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00234,C0094,Account,Sydney,2026-05-04,Portal,3,Requesting an updated invoice for finance.
+TK00235,C0239,DataVault,Sydney,2025-09-06,Chat,4,"Quick resolution on the quota ticket, excellent service."
+TK00236,C0031,Account,Sydney,2026-02-24,Portal,5,"Account manager sorted our billing query same day, thank you."
+TK00237,C0105,CloudSync,Sydney,2026-01-04,Email,2,"CloudSync failed overnight and duplicated half our records, this is a mess."
+TK00238,C0010,Account,Singapore,2025-12-12,Phone,3,How do we add a new seat to our plan?
+TK00239,C0109,CloudSync,San Francisco,2025-07-24,Phone,3,Requesting a sandbox to test a new field mapping.
+TK00240,C0065,Analytics Pro,San Francisco,2025-10-24,Portal,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00241,C0159,DataVault,Sydney,2025-09-18,Phone,5,"Backup completed ahead of schedule, thanks to the support team."
+TK00242,C0089,DataVault,Sydney,2026-05-10,Portal,4,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00243,C0207,Analytics Pro,Sydney,2025-10-05,Email,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00244,C0075,DataVault,San Francisco,2025-11-21,Email,3,How do we configure lifecycle policies on cold storage?
+TK00245,C0277,CloudSync,Sydney,2026-05-29,Portal,3,Requesting a sandbox to test a new field mapping.
+TK00246,C0163,Account,San Francisco,2026-01-29,Email,2,Onboarding has been slow and we still don't have full access.
+TK00247,C0061,DataVault,Sydney,2026-02-02,Email,4,"Quick resolution on the quota ticket, excellent service."
+TK00248,C0237,Account,San Francisco,2025-06-12,Phone,2,"Cannot log in since the SSO change, locked out of our account."
+TK00249,C0218,DataVault,Singapore,2025-06-12,Phone,5,"Backup completed ahead of schedule, thanks to the support team."
+TK00250,C0192,CloudSync,San Francisco,2025-10-05,Portal,3,"Clarification on rate limits for the integration API, please."
+TK00251,C0213,DataVault,San Francisco,2025-07-17,Email,3,How do we configure lifecycle policies on cold storage?
+TK00252,C0183,Account,Singapore,2026-03-12,Email,4,"Account manager sorted our billing query same day, thank you."
+TK00253,C0168,CloudSync,San Francisco,2025-11-28,Portal,1,"Integration with our ERP keeps dropping, we are evaluating alternatives."
+TK00254,C0231,CloudSync,San Francisco,2025-10-14,Portal,3,"Clarification on rate limits for the integration API, please."
+TK00255,C0155,Account,Singapore,2026-01-15,Chat,4,"Account manager sorted our billing query same day, thank you."
+TK00256,C0259,DataVault,Singapore,2025-10-01,Email,3,How do we configure lifecycle policies on cold storage?
+TK00257,C0275,Account,Sydney,2025-10-29,Chat,3,Need to update our billing contact details.
+TK00258,C0007,Analytics Pro,Sydney,2025-06-04,Chat,3,How do we share a dashboard with an external auditor?
+TK00259,C0200,Analytics Pro,Singapore,2025-06-13,Email,5,"The new report scheduler is a big improvement, thanks."
+TK00260,C0266,DataVault,San Francisco,2026-05-22,Phone,4,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00261,C0220,CloudSync,Sydney,2025-06-19,Chat,3,How do we add a new source to the CloudSync pipeline?
+TK00262,C0074,Analytics Pro,Singapore,2026-02-24,Phone,3,How do we share a dashboard with an external auditor?
+TK00263,C0180,CloudSync,Sydney,2026-01-09,Chat,4,"CloudSync caught up overnight and everything reconciled, thanks."
+TK00264,C0103,Analytics Pro,San Francisco,2025-12-25,Portal,4,Support walked us through the modelling module — really helpful.
+TK00265,C0058,Account,Sydney,2025-10-26,Portal,4,"Smooth onboarding, everything is set up correctly."
+TK00266,C0210,Analytics Pro,Singapore,2026-04-27,Chat,5,"The new report scheduler is a big improvement, thanks."
+TK00267,C0142,DataVault,San Francisco,2025-12-09,Chat,4,"Backup completed ahead of schedule, thanks to the support team."
+TK00268,C0186,DataVault,Singapore,2026-05-21,Email,4,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00269,C0024,Account,Singapore,2025-09-28,Portal,3,Need to update our billing contact details.
+TK00270,C0223,CloudSync,San Francisco,2026-02-01,Phone,3,"Clarification on rate limits for the integration API, please."
+TK00271,C0172,DataVault,Singapore,2025-10-21,Portal,4,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00272,C0161,DataVault,San Francisco,2025-09-05,Chat,3,Requesting an increase to our storage quota for the new project.
+TK00273,C0221,DataVault,San Francisco,2025-11-15,Portal,3,Please confirm the timing of this weekend's scheduled maintenance.
+TK00274,C0202,Analytics Pro,Sydney,2026-02-16,Portal,5,Analytics Pro replaced three manual spreadsheets for us.
+TK00275,C0244,CloudSync,Sydney,2025-06-25,Chat,3,How do we add a new source to the CloudSync pipeline?
+TK00276,C0233,CloudSync,Sydney,2026-02-02,Portal,3,Need documentation on retry logic for failed records.
+TK00277,C0268,DataVault,Sydney,2025-07-30,Email,3,Please confirm the timing of this weekend's scheduled maintenance.
+TK00278,C0045,Analytics Pro,Singapore,2025-06-30,Phone,3,Requesting access to the advanced modelling module.
+TK00279,C0062,CloudSync,Singapore,2025-10-12,Phone,4,"CloudSync caught up overnight and everything reconciled, thanks."
+TK00280,C0034,Analytics Pro,Sydney,2025-06-07,Chat,4,"Once configured, the dashboards are genuinely powerful."
+TK00281,C0010,DataVault,Singapore,2025-06-25,Phone,4,"Quick resolution on the quota ticket, excellent service."
+TK00282,C0065,CloudSync,San Francisco,2025-09-06,Email,3,"Clarification on rate limits for the integration API, please."
+TK00283,C0032,DataVault,Sydney,2026-04-23,Chat,3,How do we configure lifecycle policies on cold storage?
+TK00284,C0115,DataVault,Sydney,2025-11-25,Portal,4,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00285,C0127,Analytics Pro,Singapore,2025-07-24,Chat,4,Support walked us through the modelling module — really helpful.
+TK00286,C0268,CloudSync,Sydney,2026-04-06,Phone,3,Requesting a sandbox to test a new field mapping.
+TK00287,C0229,CloudSync,Sydney,2025-08-09,Chat,3,Need documentation on retry logic for failed records.
+TK00288,C0197,DataVault,San Francisco,2026-03-04,Chat,3,Requesting an increase to our storage quota for the new project.
+TK00289,C0048,Analytics Pro,Singapore,2026-01-23,Portal,3,Looking for guidance on custom calculated fields.
+TK00290,C0157,Analytics Pro,Sydney,2025-07-24,Chat,4,Support walked us through the modelling module — really helpful.
+TK00291,C0163,DataVault,San Francisco,2026-05-06,Chat,3,Need clarification on the data sovereignty residency options.
+TK00292,C0102,DataVault,San Francisco,2025-07-04,Portal,3,Requesting an increase to our storage quota for the new project.
+TK00293,C0253,DataVault,Sydney,2026-04-18,Chat,4,"Quick resolution on the quota ticket, excellent service."
+TK00294,C0115,Analytics Pro,Sydney,2025-12-15,Phone,3,How do we share a dashboard with an external auditor?
+TK00295,C0222,CloudSync,Singapore,2026-01-19,Email,3,"Clarification on rate limits for the integration API, please."
+TK00296,C0061,Account,Sydney,2025-08-11,Email,4,"Account manager sorted our billing query same day, thank you."
+TK00297,C0220,Account,Sydney,2025-08-07,Email,2,Onboarding has been slow and we still don't have full access.
+TK00298,C0179,CloudSync,San Francisco,2025-08-16,Chat,3,"Clarification on rate limits for the integration API, please."
+TK00299,C0098,CloudSync,Singapore,2026-03-08,Chat,4,Support helped us tune the batch size and syncs are stable now.
+TK00300,C0229,Account,Sydney,2026-05-16,Email,4,"Account manager sorted our billing query same day, thank you."
+TK00301,C0204,Analytics Pro,Sydney,2025-12-09,Phone,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00302,C0191,Analytics Pro,San Francisco,2026-05-24,Email,2,Query on the sales cube times out every morning.
+TK00303,C0124,DataVault,Singapore,2026-04-22,Phone,5,"Backup completed ahead of schedule, thanks to the support team."
+TK00304,C0130,Analytics Pro,Sydney,2026-04-11,Email,4,Support walked us through the modelling module — really helpful.
+TK00305,C0090,Analytics Pro,Singapore,2026-02-08,Chat,3,Need to schedule a training session for our new analysts.
+TK00306,C0012,CloudSync,San Francisco,2025-09-19,Portal,2,Honestly considering AWS for this — reliability has to improve.
+TK00307,C0050,Analytics Pro,Sydney,2025-06-03,Portal,4,"Once configured, the dashboards are genuinely powerful."
+TK00308,C0250,Account,Sydney,2025-12-01,Email,3,Need to update our billing contact details.
+TK00309,C0274,DataVault,Sydney,2026-01-19,Email,4,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00310,C0273,DataVault,Sydney,2026-04-10,Portal,3,Please confirm the timing of this weekend's scheduled maintenance.
+TK00311,C0101,DataVault,Singapore,2025-09-23,Portal,5,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00312,C0151,Analytics Pro,Singapore,2026-05-27,Phone,3,How do we share a dashboard with an external auditor?
+TK00313,C0091,Analytics Pro,Singapore,2025-11-20,Email,4,"Once configured, the dashboards are genuinely powerful."
+TK00314,C0032,Account,Sydney,2026-03-26,Email,3,How do we add a new seat to our plan?
+TK00315,C0076,Analytics Pro,Sydney,2025-07-12,Email,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00316,C0238,CloudSync,Singapore,2025-10-21,Phone,2,API errors every time we push a large batch — unacceptable.
+TK00317,C0100,Account,Sydney,2026-02-08,Portal,4,"Smooth onboarding, everything is set up correctly."
+TK00318,C0160,Analytics Pro,Sydney,2026-01-23,Portal,3,Requesting access to the advanced modelling module.
+TK00319,C0257,Analytics Pro,Sydney,2026-05-15,Email,4,"The new report scheduler is a big improvement, thanks."
+TK00320,C0100,DataVault,Sydney,2026-05-12,Chat,5,"Backup completed ahead of schedule, thanks to the support team."
+TK00321,C0050,Analytics Pro,Sydney,2025-11-16,Chat,4,Analytics Pro replaced three manual spreadsheets for us.
+TK00322,C0159,Analytics Pro,Sydney,2025-06-20,Portal,5,Analytics Pro replaced three manual spreadsheets for us.
+TK00323,C0228,Account,San Francisco,2025-08-06,Email,2,"Cannot log in since the SSO change, locked out of our account. Switching cost is the only thing holding us back."
+TK00324,C0065,CloudSync,San Francisco,2025-11-28,Email,2,"CloudSync failed overnight and duplicated half our records, this is a mess. We could just move this to AWS."
+TK00325,C0064,Analytics Pro,Sydney,2025-10-16,Chat,4,Support walked us through the modelling module — really helpful.
+TK00326,C0061,CloudSync,Sydney,2025-09-27,Email,3,Need documentation on retry logic for failed records.
+TK00327,C0223,DataVault,San Francisco,2025-06-25,Chat,4,DataVault has been rock solid — sovereign storage is why we chose you.
+TK00328,C0167,DataVault,Singapore,2025-09-30,Email,5,"Backup completed ahead of schedule, thanks to the support team."
+TK00329,C0015,Account,Sydney,2026-03-02,Email,4,"Smooth onboarding, everything is set up correctly."
+TK00330,C0191,CloudSync,San Francisco,2025-08-15,Phone,1,"Honestly considering AWS for this — reliability has to improve. Compared to Azure, the gap is obvious."
+TK00331,C0192,Account,San Francisco,2025-11-09,Chat,3,How do we add a new seat to our plan?
+TK00332,C0238,CloudSync,Singapore,2025-10-05,Phone,3,Need documentation on retry logic for failed records.
+TK00333,C0131,Account,Sydney,2025-11-05,Phone,3,Need to update our billing contact details.
+TK00334,C0233,DataVault,Sydney,2025-11-26,Email,3,How do we configure lifecycle policies on cold storage?
+TK00335,C0217,Analytics Pro,Sydney,2025-11-07,Portal,5,Support walked us through the modelling module — really helpful.
+TK00336,C0016,Account,Singapore,2025-07-10,Portal,5,"Account manager sorted our billing query same day, thank you."
+TK00337,C0105,CloudSync,Sydney,2025-07-07,Portal,3,Need documentation on retry logic for failed records.
+TK00338,C0085,CloudSync,San Francisco,2025-08-22,Phone,1,Field mapping broke after your update with no warning at all.
+TK00339,C0167,DataVault,Singapore,2025-10-24,Phone,5,"The new restore workflow is much faster, really appreciate it."
+TK00340,C0120,Account,Sydney,2025-08-09,Phone,4,"Account manager sorted our billing query same day, thank you."
+TK00341,C0201,Account,Singapore,2026-05-02,Email,3,Need to update our billing contact details.
+TK00342,C0083,Analytics Pro,Sydney,2025-08-23,Phone,2,"Dashboards take over a minute to load, unusable for our standups."
+TK00343,C0065,CloudSync,San Francisco,2026-04-17,Email,3,Requesting a sandbox to test a new field mapping.
+TK00344,C0154,DataVault,Singapore,2025-09-13,Portal,4,"The new restore workflow is much faster, really appreciate it."
+TK00345,C0222,Account,Singapore,2025-11-21,Portal,4,"Smooth onboarding, everything is set up correctly."
+TK00346,C0254,CloudSync,Sydney,2026-01-01,Phone,4,"CloudSync caught up overnight and everything reconciled, thanks."
+TK00347,C0243,DataVault,Sydney,2026-03-11,Email,3,Please confirm the timing of this weekend's scheduled maintenance.
+TK00348,C0090,CloudSync,Singapore,2025-12-20,Phone,3,"Clarification on rate limits for the integration API, please."
+TK00349,C0163,Account,San Francisco,2025-09-26,Chat,4,"Account manager sorted our billing query same day, thank you."
+TK00350,C0129,CloudSync,Sydney,2025-07-23,Email,4,"CloudSync caught up overnight and everything reconciled, thanks."
+TK00351,C0106,DataVault,Singapore,2026-04-15,Phone,4,"Quick resolution on the quota ticket, excellent service."
+TK00352,C0194,CloudSync,San Francisco,2025-09-03,Email,1,"CloudSync failed overnight and duplicated half our records, this is a mess. Switching cost is the only thing holding us back."
+TK00353,C0125,Account,San Francisco,2025-12-18,Portal,3,Requesting an updated invoice for finance.
+TK00354,C0010,DataVault,Singapore,2026-02-07,Portal,5,"The new restore workflow is much faster, really appreciate it."
+TK00355,C0075,DataVault,San Francisco,2026-04-10,Phone,2,"Storage uploads have been failing for two days, this is blocking our backups."
+TK00356,C0272,CloudSync,Sydney,2025-11-22,Chat,3,How do we add a new source to the CloudSync pipeline?
+TK00357,C0143,CloudSync,Singapore,2025-08-02,Chat,2,"Integration with our ERP keeps dropping, we are evaluating alternatives."
+TK00358,C0030,CloudSync,Sydney,2025-12-15,Chat,3,Need documentation on retry logic for failed records.
+TK00359,C0130,Analytics Pro,Sydney,2026-01-11,Email,4,Support walked us through the modelling module — really helpful.
+TK00360,C0053,Analytics Pro,Singapore,2025-07-18,Phone,2,The learning curve is brutal — my team can't build a basic report without help.

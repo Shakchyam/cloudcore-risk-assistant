@@ -1,0 +1,36 @@
+name = "cloudcore-console"
+main = "src/worker.js"
+compatibility_date = "2025-09-01"
+
+# The console page. API routes (/api/*) run the Worker; everything else is served from here.
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = ["/api/*"]
+
+# Review log + daily usage counter. Create it with:
+#   npx wrangler kv namespace create STORE
+# then paste the id it prints below.
+[[kv_namespaces]]
+binding = "STORE"
+id = "d3a66c0d9e7c4cc7bc2e4a5c905dc619"
+
+[vars]
+# Assistant calls allowed per day across the whole team (each tool round counts as one).
+DAILY_LIMIT = "400"
+# Models shown in the picker. A model only appears if its provider's key is set as a secret.
+# Check the exact model IDs in your OpenAI / Anthropic / Google dashboards and edit freely.
+MODELS = '''[
+  {"provider":"anthropic","id":"claude-sonnet-5-5","label":"Claude Sonnet 5.5"},
+  {"provider":"anthropic","id":"claude-haiku-5-5","label":"Claude Haiku 5.5 (fastest, cheapest Claude)"},
+  {"provider":"openai","id":"gpt-6.1-sol","label":"GPT-6.1 Sol"},
+  {"provider":"openai","id":"gpt-5.4-mini","label":"GPT-5.4 mini (fastest, cheapest GPT)"},
+  {"provider":"gemini","id":"gemini-2.5-flash","label":"Gemini 2.5 Flash (free tier)"},
+  {"provider":"mock","id":"mock","label":"Mock model (local testing only)"}
+]'''
+
+# Secrets (never put these in this file):
+#   npx wrangler secret put TEAM_PASSCODE
+#   npx wrangler secret put ANTHROPIC_API_KEY   (optional)
+#   npx wrangler secret put OPENAI_API_KEY      (optional)
+#   npx wrangler secret put GEMINI_API_KEY      (optional)

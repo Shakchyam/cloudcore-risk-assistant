@@ -1,0 +1,13 @@
+# dependencies and build caches
+node_modules/
+__pycache__/
+.wrangler/
+.DS_Store
+
+# local secrets and test settings
+.dev.vars
+.env*
+
+# generated at runtime
+data/review_log.csv
+reports/

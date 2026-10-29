@@ -1,0 +1,281 @@
+customer_id,company_name,industry,region,tenure_months,products,monthly_recurring_revenue,support_tier,churn_flag
+C0001,Nexus Logistics,Logistics,Sydney,6,CloudSync,1920.0,Basic,1
+C0002,Laurel Institute,Education,Sydney,7,Analytics Pro,1360.0,Standard,0
+C0003,Foothill Financial,Finance,Singapore,25,CloudSync,5010.0,Standard,0
+C0004,Meridian Works,Manufacturing,Singapore,35,Analytics Pro + DataVault,26220.0,Enterprise,0
+C0005,Quartz Utilities,Energy,Sydney,19,CloudSync,2160.0,Basic,0
+C0006,Horizon Retail,Retail,Singapore,31,Analytics Pro + CloudSync,6520.0,Standard,0
+C0007,Helix Broadcast,Media,Sydney,58,Analytics Pro + CloudSync + DataVault,21790.0,Enterprise,0
+C0008,Juniper Broadcast,Media,Sydney,30,Analytics Pro + CloudSync,6570.0,Basic,0
+C0009,Sterling Logistics,Logistics,Sydney,17,CloudSync,4640.0,Basic,0
+C0010,Quartz BioSciences,Healthcare,Singapore,31,DataVault,6470.0,Standard,0
+C0011,Jade Works,Manufacturing,Sydney,35,CloudSync + DataVault,5190.0,Standard,0
+C0012,Onyx Digital,Technology,San Francisco,18,CloudSync,1560.0,Basic,1
+C0013,Cardinal Capital,Finance,Sydney,37,CloudSync + DataVault,8000.0,Premium,0
+C0014,Vertex Education,Education,Sydney,24,Analytics Pro + CloudSync + DataVault,6410.0,Standard,0
+C0015,Lumen Power,Energy,Sydney,30,Analytics Pro + CloudSync + DataVault,6900.0,Standard,0
+C0016,Lumen Industries,Manufacturing,Singapore,50,Analytics Pro + CloudSync + DataVault,25360.0,Premium,0
+C0017,Cedar Goods,Retail,Singapore,33,Analytics Pro + CloudSync + DataVault,4540.0,Standard,0
+C0018,Jade Software,Technology,Singapore,14,Analytics Pro + DataVault,1630.0,Standard,0
+C0019,Orion Cargo,Logistics,Singapore,30,Analytics Pro + CloudSync + DataVault,27510.0,Enterprise,0
+C0020,Radiant Transport,Logistics,Sydney,14,CloudSync + DataVault,580.0,Basic,0
+C0021,Glacier Studios,Media,Sydney,48,Analytics Pro + CloudSync + DataVault,29690.0,Enterprise,0
+C0022,Silverline Academy,Education,Sydney,16,Analytics Pro + CloudSync + DataVault,7060.0,Standard,0
+C0023,Orion Therapeutics,Healthcare,Sydney,6,Analytics Pro,1970.0,Basic,1
+C0024,Foothill BioSciences,Healthcare,Singapore,2,CloudSync,1770.0,Basic,1
+C0025,Granite Retail,Retail,San Francisco,19,DataVault,2040.0,Standard,1
+C0026,Orion Works,Manufacturing,Sydney,19,Analytics Pro,6430.0,Standard,1
+C0027,Orion Collegiate,Education,Singapore,3,CloudSync + DataVault,1400.0,Basic,0
+C0028,Driftwood Collegiate,Education,Sydney,19,Analytics Pro + CloudSync + DataVault,6770.0,Premium,0
+C0029,Ironwood Systems,Technology,Sydney,9,DataVault,1430.0,Standard,1
+C0030,Cardinal Therapeutics,Healthcare,Sydney,8,CloudSync + DataVault,5620.0,Standard,1
+C0031,Brightpath Care,Healthcare,Sydney,42,Analytics Pro + CloudSync + DataVault,19930.0,Premium,0
+C0032,Apex Markets,Retail,Sydney,12,DataVault,1540.0,Standard,0
+C0033,Brightpath Utilities,Energy,Sydney,45,Analytics Pro + CloudSync + DataVault,24190.0,Enterprise,0
+C0034,Silverline Therapeutics,Healthcare,Sydney,13,Analytics Pro,2330.0,Standard,0
+C0035,Quartz Studios,Media,Sydney,38,Analytics Pro + CloudSync + DataVault,18110.0,Enterprise,0
+C0036,Glacier Learning,Education,Singapore,45,Analytics Pro + DataVault,21150.0,Premium,0
+C0037,Beacon Markets,Retail,Singapore,26,Analytics Pro + CloudSync + DataVault,6250.0,Standard,0
+C0038,Northwind Works,Manufacturing,Singapore,34,Analytics Pro + CloudSync + DataVault,5950.0,Standard,0
+C0039,Keystone Markets,Retail,Sydney,18,CloudSync,1340.0,Standard,1
+C0040,Glacier Markets,Retail,San Francisco,23,Analytics Pro + CloudSync,5570.0,Standard,0
+C0041,Falcon Content,Media,Singapore,33,CloudSync + DataVault,18740.0,Premium,0
+C0042,Verdant Therapeutics,Healthcare,Sydney,15,CloudSync,1660.0,Basic,1
+C0043,Latitude Freight,Logistics,Singapore,33,Analytics Pro + CloudSync + DataVault,7970.0,Standard,0
+C0044,Verdant Logistics,Logistics,Singapore,20,Analytics Pro + CloudSync,5690.0,Premium,0
+C0045,Helix Media,Media,Singapore,15,Analytics Pro + CloudSync + DataVault,6620.0,Standard,0
+C0046,Vanguard Academy,Education,Singapore,22,Analytics Pro + CloudSync,7860.0,Standard,1
+C0047,Onyx Resources,Energy,Singapore,36,Analytics Pro + DataVault,6990.0,Standard,0
+C0048,Cascade Partners,Finance,Singapore,14,Analytics Pro + CloudSync + DataVault,4910.0,Basic,1
+C0049,Pinnacle Renewables,Energy,San Francisco,14,DataVault,6210.0,Premium,0
+C0050,Juniper Manufacturing,Manufacturing,Sydney,20,Analytics Pro,5470.0,Standard,0
+C0051,Foothill Education,Education,Singapore,16,CloudSync,4650.0,Standard,0
+C0052,Cascade Media,Media,Singapore,12,DataVault,1550.0,Basic,0
+C0053,Silverline Capital,Finance,Singapore,2,Analytics Pro,1670.0,Basic,1
+C0054,Pinnacle Content,Media,San Francisco,28,Analytics Pro + DataVault,6680.0,Standard,1
+C0055,Pioneer Stores,Retail,Sydney,16,CloudSync + DataVault,1570.0,Basic,1
+C0056,Indigo Content,Media,Singapore,9,Analytics Pro,4200.0,Premium,0
+C0057,Northwind Education,Education,San Francisco,33,Analytics Pro + DataVault,6670.0,Standard,1
+C0058,Nimbus Industries,Manufacturing,Sydney,41,Analytics Pro + CloudSync + DataVault,24680.0,Enterprise,0
+C0059,Glacier Holdings,Finance,San Francisco,54,CloudSync + DataVault,20230.0,Premium,0
+C0060,Horizon Labs,Technology,Singapore,33,CloudSync,8640.0,Standard,0
+C0061,Meridian Supply,Logistics,Sydney,21,CloudSync + DataVault,6300.0,Standard,0
+C0062,Vanguard Utilities,Energy,Singapore,45,Analytics Pro + CloudSync,25350.0,Premium,0
+C0063,Nexus Media,Media,Singapore,45,Analytics Pro + CloudSync + DataVault,5740.0,Standard,0
+C0064,Cascade Education,Education,Sydney,19,Analytics Pro + CloudSync + DataVault,6130.0,Standard,0
+C0065,Echo Media,Media,San Francisco,60,Analytics Pro + CloudSync + DataVault,26190.0,Premium,0
+C0066,Quantum Labs,Technology,San Francisco,34,Analytics Pro + CloudSync + DataVault,20280.0,Premium,0
+C0067,Cascade Capital,Finance,Sydney,57,Analytics Pro + CloudSync + DataVault,29740.0,Premium,0
+C0068,Helix Creative,Media,Sydney,8,Analytics Pro + CloudSync + DataVault,8850.0,Premium,0
+C0069,Latitude Medical,Healthcare,Sydney,36,Analytics Pro + DataVault,23440.0,Premium,0
+C0070,Echo Manufacturing,Manufacturing,Sydney,23,Analytics Pro + CloudSync,7280.0,Standard,0
+C0071,Orion Markets,Retail,Sydney,5,DataVault,2270.0,Basic,1
+C0072,Echo Supply,Logistics,San Francisco,13,Analytics Pro + DataVault,6650.0,Premium,0
+C0073,Juniper Logistics,Logistics,Sydney,34,Analytics Pro + CloudSync + DataVault,26410.0,Enterprise,0
+C0074,Magnolia Power,Energy,Singapore,8,Analytics Pro,1310.0,Basic,1
+C0075,Pinnacle Academy,Education,San Francisco,10,DataVault,1100.0,Basic,1
+C0076,Lumen Manufacturing,Manufacturing,Sydney,26,Analytics Pro + CloudSync,7370.0,Standard,0
+C0077,Onyx BioSciences,Healthcare,Singapore,59,Analytics Pro + CloudSync + DataVault,10510.0,Premium,0
+C0078,Indigo Education,Education,Sydney,12,Analytics Pro + CloudSync + DataVault,7450.0,Basic,1
+C0079,Onyx Technologies,Technology,Singapore,16,Analytics Pro + DataVault,2400.0,Standard,0
+C0080,Pinnacle Partners,Finance,Singapore,31,Analytics Pro + CloudSync,7200.0,Basic,0
+C0081,Cardinal Utilities,Energy,San Francisco,2,CloudSync,2550.0,Standard,0
+C0082,Quantum Health,Healthcare,Sydney,24,Analytics Pro + CloudSync,5510.0,Standard,0
+C0083,Vanguard Power,Energy,Sydney,48,Analytics Pro + CloudSync + DataVault,22370.0,Premium,0
+C0084,Marigold Medical,Healthcare,Sydney,27,Analytics Pro + DataVault,9110.0,Standard,0
+C0085,Keystone Manufacturing,Manufacturing,San Francisco,10,CloudSync,900.0,Basic,1
+C0086,Pinnacle Learning,Education,San Francisco,7,Analytics Pro,1960.0,Basic,1
+C0087,Harbor Supply,Logistics,Sydney,4,CloudSync,1830.0,Basic,1
+C0088,Brightpath BioSciences,Healthcare,Sydney,13,DataVault,1560.0,Basic,0
+C0089,Juniper Markets,Retail,Sydney,5,DataVault,2010.0,Standard,0
+C0090,Vertex Institute,Education,Singapore,12,Analytics Pro + CloudSync + DataVault,6100.0,Standard,0
+C0091,Northwind Partners,Finance,Singapore,57,Analytics Pro + CloudSync + DataVault,23430.0,Premium,0
+C0092,Zenith Labs,Technology,Sydney,27,Analytics Pro + CloudSync + DataVault,6410.0,Standard,0
+C0093,Vertex Cargo,Logistics,Singapore,28,Analytics Pro + CloudSync + DataVault,32720.0,Enterprise,0
+C0094,Atlas Institute,Education,Sydney,3,Analytics Pro,2160.0,Standard,0
+C0095,Meridian Commerce,Retail,Sydney,28,Analytics Pro + DataVault,24140.0,Enterprise,0
+C0096,Marigold Fabrication,Manufacturing,Singapore,10,DataVault,2460.0,Basic,0
+C0097,Quantum Financial,Finance,Sydney,33,Analytics Pro + DataVault,29480.0,Enterprise,0
+C0098,Granite Goods,Retail,Singapore,16,CloudSync,2090.0,Basic,0
+C0099,Lumen Institute,Education,Sydney,13,CloudSync + DataVault,2330.0,Basic,1
+C0100,Terra Trust,Finance,Sydney,23,Analytics Pro + CloudSync + DataVault,6930.0,Premium,0
+C0101,Granite Industries,Manufacturing,Singapore,49,Analytics Pro + CloudSync + DataVault,23620.0,Premium,0
+C0102,Quartz Therapeutics,Healthcare,San Francisco,11,Analytics Pro + DataVault,6210.0,Standard,1
+C0103,Apex Logistics,Logistics,San Francisco,26,Analytics Pro + DataVault,5970.0,Basic,1
+C0104,Anchor Fabrication,Manufacturing,Singapore,4,CloudSync,2290.0,Standard,0
+C0105,Summit Supply,Logistics,Sydney,3,CloudSync,1780.0,Basic,1
+C0106,Falcon Institute,Education,Singapore,38,CloudSync + DataVault,16880.0,Premium,0
+C0107,Foothill Capital,Finance,Sydney,36,Analytics Pro + DataVault,4940.0,Standard,0
+C0108,Meridian Industries,Manufacturing,San Francisco,22,Analytics Pro + DataVault,8130.0,Premium,0
+C0109,Olive Care,Healthcare,San Francisco,18,Analytics Pro + CloudSync + DataVault,6370.0,Standard,0
+C0110,Jade Trust,Finance,Sydney,60,Analytics Pro + CloudSync + DataVault,18120.0,Premium,0
+C0111,Summit Retail,Retail,Sydney,28,Analytics Pro + CloudSync + DataVault,29300.0,Premium,0
+C0112,Cedar Renewables,Energy,Sydney,45,Analytics Pro + CloudSync,7870.0,Premium,0
+C0113,Apex Health,Healthcare,Singapore,35,CloudSync + DataVault,6330.0,Standard,1
+C0114,Glacier Broadcast,Media,Sydney,33,Analytics Pro,6460.0,Premium,0
+C0115,Lumen Labs,Technology,Sydney,47,Analytics Pro + CloudSync + DataVault,27940.0,Enterprise,0
+C0116,Radiant Holdings,Finance,Sydney,41,Analytics Pro + DataVault,7250.0,Premium,0
+C0117,Granite Utilities,Energy,Sydney,19,Analytics Pro + CloudSync + DataVault,6190.0,Standard,0
+C0118,Marigold Collegiate,Education,San Francisco,36,Analytics Pro + DataVault,5790.0,Premium,0
+C0119,Magnolia Resources,Energy,Sydney,13,CloudSync,6170.0,Standard,1
+C0120,Ironwood Retail,Retail,Sydney,8,CloudSync,1620.0,Basic,0
+C0121,Atlas Freight,Logistics,San Francisco,34,DataVault,5980.0,Standard,1
+C0122,Driftwood Utilities,Energy,San Francisco,35,Analytics Pro + DataVault,5100.0,Basic,1
+C0123,Quantum Systems,Technology,Sydney,59,Analytics Pro + DataVault,34260.0,Enterprise,0
+C0124,Ironwood Financial,Finance,Singapore,45,Analytics Pro + CloudSync + DataVault,21540.0,Enterprise,0
+C0125,Falcon Care,Healthcare,San Francisco,17,DataVault,2560.0,Basic,0
+C0126,Falcon Works,Manufacturing,Singapore,3,DataVault,1690.0,Basic,0
+C0127,Kestrel Health,Healthcare,Singapore,57,Analytics Pro + CloudSync + DataVault,24330.0,Enterprise,0
+C0128,Magnolia Partners,Finance,San Francisco,32,Analytics Pro + CloudSync + DataVault,26070.0,Enterprise,0
+C0129,Silverline Partners,Finance,Sydney,34,CloudSync,7770.0,Standard,0
+C0130,Ironwood Health,Healthcare,Sydney,21,Analytics Pro,7850.0,Standard,0
+C0131,Horizon Cargo,Logistics,Sydney,31,CloudSync + DataVault,5380.0,Standard,0
+C0132,Olive Fabrication,Manufacturing,Sydney,35,DataVault,6570.0,Standard,1
+C0133,Pinnacle Technologies,Technology,Singapore,14,Analytics Pro + DataVault,1830.0,Basic,1
+C0134,Ironwood Fabrication,Manufacturing,San Francisco,26,Analytics Pro + CloudSync + DataVault,4340.0,Standard,0
+C0135,Olive Labs,Technology,San Francisco,21,Analytics Pro + CloudSync + DataVault,7200.0,Standard,0
+C0136,Falcon Technologies,Technology,Sydney,32,Analytics Pro,6990.0,Premium,0
+C0137,Cobalt Logistics,Logistics,Sydney,39,Analytics Pro,6490.0,Standard,0
+C0138,Jade Capital,Finance,Singapore,34,DataVault,7740.0,Standard,0
+C0139,Latitude Labs,Technology,Singapore,44,Analytics Pro + DataVault,5230.0,Premium,0
+C0140,Beacon Education,Education,Singapore,17,Analytics Pro,7140.0,Premium,0
+C0141,Onyx Power,Energy,Sydney,2,DataVault,1670.0,Standard,0
+C0142,Keystone BioSciences,Healthcare,San Francisco,30,CloudSync + DataVault,22020.0,Premium,0
+C0143,Radiant Systems,Technology,Singapore,18,CloudSync,1930.0,Basic,1
+C0144,Cobalt Academy,Education,San Francisco,42,Analytics Pro + DataVault,6870.0,Premium,0
+C0145,Driftwood Capital,Finance,San Francisco,35,Analytics Pro + CloudSync + DataVault,7220.0,Premium,0
+C0146,Terra Software,Technology,San Francisco,35,Analytics Pro + DataVault,24850.0,Premium,0
+C0147,Lumen Partners,Finance,Singapore,14,CloudSync,6710.0,Standard,0
+C0148,Glacier Power,Energy,Sydney,24,Analytics Pro,7240.0,Premium,0
+C0149,Zenith Capital,Finance,Sydney,40,Analytics Pro + CloudSync,6210.0,Premium,0
+C0150,Sterling Cargo,Logistics,Singapore,13,DataVault,2480.0,Basic,0
+C0151,Vanguard Partners,Finance,Singapore,11,Analytics Pro,1760.0,Basic,1
+C0152,Echo Capital,Finance,Sydney,17,Analytics Pro,7100.0,Standard,0
+C0153,Verdant Utilities,Energy,San Francisco,37,CloudSync + DataVault,7140.0,Premium,0
+C0154,Onyx Education,Education,Singapore,14,Analytics Pro + DataVault,6280.0,Standard,0
+C0155,Quantum Transport,Logistics,Singapore,33,CloudSync,6150.0,Standard,0
+C0156,Apex Industries,Manufacturing,Singapore,36,Analytics Pro + CloudSync + DataVault,4920.0,Standard,0
+C0157,Marigold BioSciences,Healthcare,Sydney,11,Analytics Pro,5460.0,Basic,1
+C0158,Radiant Works,Manufacturing,Singapore,45,Analytics Pro + CloudSync + DataVault,24120.0,Enterprise,0
+C0159,Olive Power,Energy,Sydney,39,Analytics Pro + CloudSync + DataVault,5790.0,Standard,0
+C0160,Sterling Learning,Education,Sydney,11,Analytics Pro,2970.0,Standard,1
+C0161,Lumen Learning,Education,San Francisco,9,DataVault,1020.0,Standard,1
+C0162,Radiant Goods,Retail,Sydney,48,Analytics Pro + CloudSync,23080.0,Premium,0
+C0163,Juniper Retail,Retail,San Francisco,15,Analytics Pro + DataVault,3990.0,Standard,0
+C0164,Granite Trust,Finance,Singapore,15,Analytics Pro,7440.0,Premium,1
+C0165,Marigold Works,Manufacturing,Sydney,10,CloudSync,1720.0,Standard,1
+C0166,Orion Freight,Logistics,Sydney,50,Analytics Pro + CloudSync + DataVault,23620.0,Premium,0
+C0167,Cardinal Resources,Energy,Singapore,15,DataVault,1550.0,Standard,1
+C0168,Echo Software,Technology,San Francisco,14,Analytics Pro + CloudSync + DataVault,6600.0,Standard,0
+C0169,Falcon Capital,Finance,Sydney,32,Analytics Pro + DataVault,26250.0,Premium,0
+C0170,Cedar Financial,Finance,Sydney,4,Analytics Pro,1720.0,Basic,1
+C0171,Foothill Manufacturing,Manufacturing,San Francisco,55,Analytics Pro + CloudSync + DataVault,21960.0,Premium,0
+C0172,Brightpath Fabrication,Manufacturing,Singapore,27,DataVault,6530.0,Standard,0
+C0173,Helix Studios,Media,Sydney,8,CloudSync,6150.0,Standard,1
+C0174,Cascade Fabrication,Manufacturing,Singapore,14,DataVault,2320.0,Standard,0
+C0175,Anchor Capital,Finance,San Francisco,17,Analytics Pro,5510.0,Standard,0
+C0176,Magnolia Materials,Manufacturing,Sydney,26,Analytics Pro + DataVault,5290.0,Basic,0
+C0177,Driftwood Medical,Healthcare,Singapore,10,Analytics Pro + DataVault,1780.0,Basic,0
+C0178,Cardinal Works,Manufacturing,Sydney,2,CloudSync + DataVault,1990.0,Standard,1
+C0179,Falcon Broadcast,Media,San Francisco,30,Analytics Pro + CloudSync + DataVault,4940.0,Basic,1
+C0180,Cascade Commerce,Retail,Sydney,47,Analytics Pro + CloudSync,24470.0,Enterprise,0
+C0181,Onyx Commerce,Retail,Sydney,33,Analytics Pro + CloudSync + DataVault,15210.0,Enterprise,0
+C0182,Harbor Care,Healthcare,Sydney,39,Analytics Pro + DataVault,5570.0,Standard,0
+C0183,Cardinal Logistics,Logistics,Singapore,29,Analytics Pro + CloudSync,7330.0,Premium,0
+C0184,Magnolia Manufacturing,Manufacturing,Sydney,30,Analytics Pro + CloudSync + DataVault,27930.0,Premium,1
+C0185,Glacier Renewables,Energy,Singapore,28,Analytics Pro + CloudSync + DataVault,30250.0,Enterprise,0
+C0186,Indigo Financial,Finance,Singapore,8,Analytics Pro + DataVault,1180.0,Standard,0
+C0187,Anchor Power,Energy,San Francisco,7,CloudSync,2120.0,Basic,1
+C0188,Juniper Systems,Technology,Sydney,43,Analytics Pro + CloudSync + DataVault,30210.0,Enterprise,0
+C0189,Helix Commerce,Retail,Singapore,14,Analytics Pro,6910.0,Standard,1
+C0190,Nimbus Content,Media,Sydney,2,Analytics Pro + CloudSync,1870.0,Basic,0
+C0191,Olive Media,Media,San Francisco,33,Analytics Pro + CloudSync,6060.0,Standard,0
+C0192,Marigold Academy,Education,San Francisco,16,CloudSync + DataVault,6600.0,Standard,1
+C0193,Quartz Transport,Logistics,Sydney,36,Analytics Pro + CloudSync + DataVault,6380.0,Standard,0
+C0194,Summit Media,Media,San Francisco,2,CloudSync,1680.0,Basic,1
+C0195,Kestrel Creative,Media,Sydney,9,Analytics Pro + CloudSync,1630.0,Basic,0
+C0196,Cedar Fabrication,Manufacturing,San Francisco,35,Analytics Pro + CloudSync + DataVault,7100.0,Basic,0
+C0197,Silverline Media,Media,San Francisco,28,DataVault,5410.0,Basic,1
+C0198,Granite Works,Manufacturing,Singapore,31,Analytics Pro + CloudSync,4670.0,Standard,0
+C0199,Nexus Industries,Manufacturing,Singapore,31,Analytics Pro + CloudSync + DataVault,6480.0,Standard,0
+C0200,Verdant Collegiate,Education,Singapore,16,Analytics Pro,1440.0,Standard,0
+C0201,Magnolia Digital,Technology,Singapore,12,CloudSync,4640.0,Standard,0
+C0202,Olive Industries,Manufacturing,Sydney,49,Analytics Pro + CloudSync + DataVault,32590.0,Enterprise,0
+C0203,Cobalt Health,Healthcare,Singapore,24,Analytics Pro + CloudSync + DataVault,6030.0,Standard,0
+C0204,Terra Industries,Manufacturing,Sydney,33,Analytics Pro + DataVault,8490.0,Standard,0
+C0205,Cardinal Software,Technology,San Francisco,38,Analytics Pro,6070.0,Standard,1
+C0206,Nimbus Partners,Finance,Sydney,12,CloudSync + DataVault,6320.0,Standard,0
+C0207,Pioneer Resources,Energy,Sydney,18,Analytics Pro + CloudSync,8160.0,Standard,0
+C0208,Orion Broadcast,Media,Singapore,35,Analytics Pro + CloudSync + DataVault,31420.0,Enterprise,0
+C0209,Verdant Software,Technology,Sydney,59,Analytics Pro + DataVault,24370.0,Enterprise,0
+C0210,Lumen Transport,Logistics,Singapore,14,Analytics Pro,2100.0,Standard,0
+C0211,Onyx Broadcast,Media,San Francisco,26,Analytics Pro + CloudSync + DataVault,7390.0,Premium,1
+C0212,Northwind Stores,Retail,San Francisco,33,Analytics Pro + CloudSync + DataVault,20220.0,Premium,0
+C0213,Vanguard Cargo,Logistics,San Francisco,21,Analytics Pro + DataVault,8410.0,Standard,0
+C0214,Quantum Medical,Healthcare,Sydney,44,CloudSync + DataVault,26720.0,Enterprise,0
+C0215,Atlas Partners,Finance,Sydney,46,Analytics Pro + CloudSync + DataVault,19420.0,Enterprise,0
+C0216,Apex Supply,Logistics,San Francisco,15,Analytics Pro + CloudSync,4820.0,Standard,1
+C0217,Beacon Capital,Finance,Sydney,8,Analytics Pro + CloudSync + DataVault,4580.0,Standard,0
+C0218,Latitude Media,Media,Singapore,14,DataVault,1120.0,Basic,0
+C0219,Foothill Health,Healthcare,San Francisco,4,Analytics Pro,1620.0,Basic,1
+C0220,Anchor Renewables,Energy,Sydney,8,CloudSync + DataVault,1820.0,Basic,0
+C0221,Radiant Digital,Technology,San Francisco,45,Analytics Pro + CloudSync + DataVault,19720.0,Premium,1
+C0222,Zenith Logistics,Logistics,Singapore,37,CloudSync + DataVault,6170.0,Standard,0
+C0223,Apex Education,Education,San Francisco,35,Analytics Pro + CloudSync + DataVault,24370.0,Enterprise,0
+C0224,Magnolia Collegiate,Education,Singapore,52,Analytics Pro + CloudSync + DataVault,26440.0,Premium,0
+C0225,Northwind Therapeutics,Healthcare,Sydney,30,CloudSync,6730.0,Standard,0
+C0226,Quartz Institute,Education,San Francisco,14,CloudSync + DataVault,1150.0,Basic,1
+C0227,Driftwood Digital,Technology,Singapore,25,Analytics Pro + DataVault,6070.0,Standard,0
+C0228,Keystone Media,Media,San Francisco,42,Analytics Pro + CloudSync + DataVault,20600.0,Enterprise,0
+C0229,Olive Stores,Retail,Sydney,10,CloudSync,5560.0,Standard,1
+C0230,Verdant Broadcast,Media,Sydney,24,Analytics Pro,6640.0,Premium,0
+C0231,Vanguard Labs,Technology,San Francisco,10,CloudSync,1940.0,Basic,1
+C0232,Quantum Content,Media,Sydney,18,Analytics Pro + CloudSync + DataVault,7910.0,Premium,0
+C0233,Vanguard Markets,Retail,Sydney,21,CloudSync + DataVault,5200.0,Standard,0
+C0234,Pioneer Energy,Energy,Singapore,23,Analytics Pro + CloudSync + DataVault,5830.0,Standard,0
+C0235,Glacier Resources,Energy,Singapore,35,Analytics Pro + DataVault,8420.0,Standard,1
+C0236,Atlas Media,Media,Sydney,56,Analytics Pro + CloudSync + DataVault,25910.0,Premium,0
+C0237,Granite Media,Media,San Francisco,18,DataVault,5280.0,Standard,1
+C0238,Echo Collegiate,Education,Singapore,9,CloudSync,1800.0,Basic,0
+C0239,Horizon Freight,Logistics,Sydney,39,Analytics Pro + CloudSync + DataVault,4760.0,Standard,0
+C0240,Terra Care,Healthcare,Sydney,43,Analytics Pro + DataVault,9350.0,Premium,0
+C0241,Indigo BioSciences,Healthcare,Singapore,11,Analytics Pro + CloudSync + DataVault,7430.0,Premium,0
+C0242,Nimbus Learning,Education,Singapore,34,Analytics Pro + CloudSync + DataVault,5670.0,Standard,0
+C0243,Radiant Labs,Technology,Sydney,11,DataVault,6170.0,Standard,1
+C0244,Laurel Content,Media,Sydney,28,Analytics Pro + CloudSync,6170.0,Standard,0
+C0245,Nimbus Renewables,Energy,San Francisco,9,Analytics Pro + CloudSync + DataVault,6510.0,Standard,1
+C0246,Driftwood Transport,Logistics,Singapore,57,Analytics Pro + CloudSync + DataVault,34990.0,Enterprise,0
+C0247,Atlas Materials,Manufacturing,Sydney,11,Analytics Pro + CloudSync,5340.0,Standard,0
+C0248,Meridian Partners,Finance,Singapore,39,Analytics Pro + CloudSync + DataVault,6770.0,Standard,0
+C0249,Driftwood Software,Technology,San Francisco,28,CloudSync + DataVault,24200.0,Premium,0
+C0250,Harbor Labs,Technology,Sydney,15,Analytics Pro + CloudSync,5730.0,Basic,0
+C0251,Terra Health,Healthcare,Sydney,4,CloudSync,1530.0,Basic,0
+C0252,Quartz Partners,Finance,San Francisco,8,DataVault,1180.0,Basic,1
+C0253,Granite Renewables,Energy,Sydney,15,DataVault,2100.0,Basic,1
+C0254,Northwind Care,Healthcare,Sydney,17,Analytics Pro + CloudSync,1560.0,Standard,0
+C0255,Glacier Materials,Manufacturing,Sydney,33,CloudSync + DataVault,5840.0,Standard,0
+C0256,Terra Medical,Healthcare,Singapore,47,Analytics Pro + CloudSync + DataVault,24200.0,Premium,0
+C0257,Brightpath Software,Technology,Sydney,38,Analytics Pro + CloudSync,28230.0,Enterprise,0
+C0258,Pinnacle Goods,Retail,Sydney,13,Analytics Pro + DataVault,5050.0,Standard,0
+C0259,Foothill Studios,Media,Singapore,34,Analytics Pro + CloudSync + DataVault,20870.0,Premium,0
+C0260,Helix Holdings,Finance,San Francisco,11,CloudSync,1840.0,Basic,1
+C0261,Ironwood Resources,Energy,San Francisco,16,CloudSync,2340.0,Basic,1
+C0262,Apex Holdings,Finance,Sydney,19,Analytics Pro + CloudSync,2570.0,Standard,0
+C0263,Summit Industries,Manufacturing,Sydney,32,Analytics Pro + CloudSync + DataVault,6680.0,Standard,0
+C0264,Foothill Utilities,Energy,San Francisco,32,CloudSync,6110.0,Standard,1
+C0265,Orion Holdings,Finance,Singapore,53,CloudSync + DataVault,29940.0,Enterprise,0
+C0266,Glacier Media,Media,San Francisco,16,CloudSync + DataVault,5400.0,Standard,0
+C0267,Vertex Freight,Logistics,San Francisco,53,Analytics Pro + CloudSync + DataVault,24440.0,Enterprise,0
+C0268,Verdant Technologies,Technology,Sydney,21,CloudSync + DataVault,6110.0,Standard,0
+C0269,Pioneer Collegiate,Education,Sydney,56,Analytics Pro + CloudSync + DataVault,26470.0,Enterprise,0
+C0270,Onyx Retail,Retail,San Francisco,13,CloudSync + DataVault,2360.0,Standard,1
+C0271,Olive Holdings,Finance,Sydney,39,Analytics Pro + DataVault,24500.0,Premium,0
+C0272,Summit Therapeutics,Healthcare,Sydney,2,CloudSync,1270.0,Standard,0
+C0273,Ironwood Medical,Healthcare,Sydney,12,DataVault,1870.0,Basic,0
+C0274,Helix Systems,Technology,Sydney,11,DataVault,1570.0,Basic,1
+C0275,Cardinal Digital,Technology,Sydney,59,Analytics Pro + CloudSync + DataVault,27730.0,Enterprise,0
+C0276,Sterling Trust,Finance,Sydney,12,CloudSync + DataVault,1180.0,Standard,0
+C0277,Nimbus Creative,Media,Sydney,18,CloudSync,880.0,Basic,1
+C0278,Summit Energy,Energy,Sydney,44,Analytics Pro + CloudSync + DataVault,23990.0,Enterprise,0
+C0279,Cedar Therapeutics,Healthcare,Singapore,52,Analytics Pro + CloudSync + DataVault,22200.0,Enterprise,0
+C0280,Cedar Health,Healthcare,Singapore,40,Analytics Pro + CloudSync + DataVault,17650.0,Enterprise,0
