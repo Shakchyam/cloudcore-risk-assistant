@@ -20,23 +20,26 @@ These rules turn the Assessment 2 Orange findings into a consistent first pass. 
 
 ## Attention levels
 
-The first rule that matches sets the level.
+The attention level should be based mainly on direct customer evidence. Profile information such as support tier, tenure and product count provides context, but does not determine the level by itself.
 
-1. **Uncertain**: switching language followed by a later positive support experience. Intent needs a person to confirm it.
-2. **High**: all three profile factors are present.
-3. **High**: at least one profile factor, plus a warning sign in the customer's own feedback.
-4. **Medium**: at least one profile factor, but no warning sign yet. Check in; don't escalate.
-5. **Uncertain**: a warning sign but a healthy profile. The signals are mixed, so a person should judge.
-6. **Low**: a healthy profile and no warning signs.
+1. **High**: strong direct warning signs, such as clear switching intent, a named competitor, repeated serious complaints, or a major unresolved issue.
 
-If an account has no tickets or reviews, the suggestion rests on its profile alone, and the brief has to say so.
+2. **Medium**: a clear technical or service problem with meaningful customer impact, but there is not enough evidence of switching intent, repeated failure or an unresolved issue to justify High.
+
+3. **Uncertain**: the evidence is incomplete, old, conflicting or missing important information such as resolution status. A person should investigate before deciding.
+
+4. **Low**: no meaningful warning signs are present and the available evidence is generally positive or routine.
+
+Basic support tier, tenure under 12 months, single-product use and region are context only. They can help explain the situation but should not automatically increase the attention level.
+
+If an account has no tickets or reviews, the assistant should not assume the customer is healthy or at risk. It should clearly state that the evidence is limited.
 
 ## Exploratory check (in-sample, not accuracy)
 
 `python eval/run_rules_eval.py` compares the suggestions with the historical `churn_flag` after the fact:
 
 | Level | Accounts | Historically flagged |
-|---|---|---|
+|---|---:|---:|
 | High | 43 | 72.1% |
 | Medium | 82 | 35.4% |
 | Uncertain | 27 | 14.8% |
